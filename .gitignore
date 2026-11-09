@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Raw XML/HTML cache from scraping (re-downloadable deterministically)
+data/raw/
+
+# IDE / OS files
+.DS_Store
+.idea/
+.vscode/

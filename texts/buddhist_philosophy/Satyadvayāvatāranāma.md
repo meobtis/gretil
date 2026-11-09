@@ -1,0 +1,119 @@
+---
+title: Satyadvayāvatāranāma
+category: Buddhist Philosophy
+gretil_id: sa_dIpaMkara-satyadvayAvatAranAma
+source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkara-satyadvayAvatAranAma.xml
+author: Dīpaṃkara
+source_edition: 'Sonam Rabten: Satyadvayavataradigrantha catustayam. Sarnath : Central
+  Institute of High Tibetan Studies (CIHTS), 2000, pp. 91-94.'
+contributors:
+- 'data entry: members of the Digital Sanskrit Buddhist Canon Input Project'
+- 'contribution to GRETIL: members of the Digital Sanskrit Buddhist Canon Input Project'
+- 'initial normalization and conversion to legacy GRETIL formats: Reinhold Grünendahl'
+- 'normalization and conversion to TEI-conformant markup: Maximilian Mehner'
+licence: Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike
+  4.0 International License.
+keywords:
+- Sanskrit -- Śāstra -- Philosophy -- Buddhist
+---
+
+# Satyadvayāvatāranāma
+
+Satyadvayāvatāranāma (Sda)
+
+// namo mahākāruṇikāya //
+
+dve satye samupāśritya buddhānāṃ dharmadeśanā /  
+lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ // Sda_1 //
+
+saṃvṛttirmanyate dvedhā mithyā ca tathatā tathā /  
+ādyā dvidhodacandraśca kusiddhāntavitarkaṇā // Sda_2 //
+
+avicāraikaramyā ca vināśotpādadharmiṇī /  
+arthakriyāsamarthā ca tathatāsaṃvṛtirmatā // Sda_3 //
+
+eka evaparo hyarthaḥ paraiśca dvividho mataḥ /  
+na kācid dharmatā siddhā kuto dvitryādikaṃ bhavet // Sda_4 //
+
+anutpādanirodhādi deśanāvākyalakṣitam /  
+paramārthābhinnaśīlatvān naiva dharmā na dharmatā // Sda_5 //
+
+śūnyatāyāṃ vibhedastu kiñcinmātraṃ na vidyate /  
+nirvikalpatayā bodhe śūnyatādṛṣṭirucyate // Sda_6 //
+
+uktaṃ sūtre sugambhīre taddarśanamadarśanam /  
+tatra draṣṭā na dṛśyaṃ cāpyanādinidhanaṃ śivam // Sda_7 //
+
+nirvikalpaṃ nirālambaṃ bhāvābhāvavivarjitam /  
+anāśrayāpratiṣṭhānam atulyaṃ nirgatāgatam // Sda_8 //
+
+anirvācyamanābhāsaṃ nirvikāramasaṃskṛtam /  
+yogigamyamidaṃ kleśajñeyāvaraṇavarjitam // Sda_9 //
+
+pratyakṣamanumānañca taddvayaṃ bauddhasammatam /  
+ubhābhyāṃ śūnyatā gamyetyarvāgdṛṅmohabhāṣitam // Sda_10 //
+
+prasajyeddharmatājñānaṃ tīrthike śrāvake 'pi ca /  
+vijñānināñca kiṃ vācyaṃ mādhyamike 'viruddhatā // Sda_11 //
+
+tarhi sarve 'pi siddhāntā mānameyatayā samāḥ /  
+sarvatarkaviruddhatvān mānameyāpi dharmatā // Sda_12 //
+
+bāhulyena kathaṃ na syāt pratyakṣaṃ cānumā vṛthā /  
+tīrthyavādanivṛtyarthaṃ vidvadbhiḥ kṛtayaḥ kṛtāḥ // Sda_13 //
+
+savikalpāvikalpābhyāṃ jñānābhyāṃ nāvagamyate /  
+āgame 'pi sphuṭaṃ vidvānācāryo bhavya āha ca // Sda_14 //
+
+śūnyatāvagatā kena vyākṛtā yā tathāgataiḥ /  
+nāgāntevāsicandro hi dharmatāsatyadarśakaḥ // Sda_15 //
+
+tataḥ paramparāmnāyairdharmatāsatyagamyatā /  
+dharmaskandhasahasrāṇi catvāryuktānyaśīti ca // Sda_16 //
+
+dharmatāntargataṃ sarvam muktistu śūnyatābodhes
+
+tadarthā śeṣabhāvanā tathyasaṃvṛtimādhūya // Sda_17 //
+
+śūnyatābhyasane sati saṃvṛtihetoḥpuṇyādeḥ /  
+paralokācca vañcyate viviktārthamajānānaḥ // Sda_18 //
+
+svalpaśrutisamāśritaḥ yo naraḥ puṇyakṛnnāsti /  
+naṣṭaḥ kāpuruṣastu saḥ vināśayati durdṛṣṭā // Sda_19 //
+
+śūnyatā mandamedhasam candrācārya uvācaivam /  
+upāyabhūtaṃ vyavahārasatyamupeyabhūtaṃ paramārthasatyam // Sda_20 //
+
+dvayorvibhedaṃ na hi veda yo sa vrajedapāyaṃ viparītabodhāt /  
+vyavahāramanāgamya paramārtho na deśyate // Sda_21 //
+
+tathyasaṃvṛtisopānamantareṇa vipaścitaḥ /  
+tattvaprāsādaśikharārohaṇaṃ na hi yujyate // Sda_22 //
+
+yathāyaṃ saṃvṛterbhāso yuktyā kiñcinna labhyate /  
+paramārthastvalabdhatvam ādisaṃsthitadharmatā // Sda_23 //
+
+hetupratyayajanyatvāt saṃvṛtirbhāsavanmatā /  
+ayuktaṃ śodhitum cet kairjalacandrādivinirmitam // Sda_24 //
+
+nānāpratyayajanyatvāt siddho bhāso 'khilastataḥ /  
+pratyayānāṃ tu vicchedātsaṃvṛttyāpi na sambhavaḥ // Sda_25 //
+
+evaṃ dṛṣṭerasaṃmohāj jāte caryāviśodhane /  
+unmārge 'gamanaṃ kṛtvākaniṣṭhaṃ sthānamāpnuyāt // Sda_26 //
+
+āyuṣyamalpaṃ bāhulāśca vidyā āyuḥpramāṇaṃ ca kiyanna vidmaḥ /  
+svābhīṣṭameva pratilambhanīyaṃ haṃsairyathā kṣīramivāmbumadhyāt // Sda_27 //
+
+arvāgdṛśā mohavaśena cāpi kṣamo na satyadvayanirṇaye 'pi /  
+uktīrgurūṇāmiha sampratītya nyastaṃ dvayaṃ nāgamataṃ hi satyam // Sda_28 //
+
+rājño 'nurodhena suvarṇadvīpe kṛte 'tra śrāddho yadi vā jano 'dya /  
+gṛhṇātu samyak suparīkṣaṇena na śraddhayā naiva ca gauraveṇa // Sda_29 //
+
+sauvarṇarājena guroḥphalena saṃpreṣito devamatirhi bhikṣuḥ /  
+tasyāgrahāt satyadvayāvatāro yuktyā sudhībhistviha vīkṣaṇīyaḥ // Sda_30 //
+
+ācāryadīpaṅkaraśrījñānaviracitaḥ satyadvayāvatāraḥ samāptaḥ /
+
+tenaiva paṇḍitena anuvādakena vīryasiṃhena cānūdya saṃśodhya ca nirṇītaḥ /

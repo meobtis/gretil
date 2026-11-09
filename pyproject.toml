@@ -1,0 +1,24 @@
+[project]
+name = "gretil-sanskrit"
+version = "0.1.0"
+description = "Deterministic scraper and TEI XML to Markdown converter for GRETIL Buddhist Sanskrit texts"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "click>=8.1.7",
+    "httpx>=0.27.0",
+    "lxml>=5.1.0",
+    "pyyaml>=6.0.1",
+    "rich>=13.7.1",
+]
+
+[project.scripts]
+gretil = "gretil.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gretil"]

@@ -1,0 +1,3472 @@
+[
+  {
+    "id": "sa_abhayAkaragupta-niSpaNNayogAvali",
+    "index": 1,
+    "catalog_title": "Abhayakaragupta: Nispannayogavali, chap. 1 [was: Aksobhyamanjuvajra] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_abhayAkaragupta-niSpaNNayogAvali.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhayAkaragupta-niSpaNNayogAvali.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_abhisamAcArikadharma",
+    "index": 2,
+    "catalog_title": "Abhisamacarikadharma of the Mahasamghika-Lokottaravadins (input by Abhisamacarika-Dharma Study Group, Taisho University)",
+    "relative_url": "gretil/corpustei/sa_abhisamAcArikadharma.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhisamAcArikadharma.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_adbhutadharmaparyAya",
+    "index": 3,
+    "catalog_title": "Adbhutadharmaparyaya (input by Jens-Uwe Hartmann)",
+    "relative_url": "gretil/corpustei/sa_adbhutadharmaparyAya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_adbhutadharmaparyAya.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_adhikaraNavastu",
+    "index": 4,
+    "catalog_title": "Adhikaranavastu [ = Vinayavastu, 16] (input by Seishi Karashima)",
+    "relative_url": "gretil/corpustei/sa_adhikaraNavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_adhikaraNavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "adhsatpu",
+    "index": 5,
+    "catalog_title": "Adhyardhasatika Prajnaparamita (input by Klaus Wille)",
+    "relative_url": "gretil/1_sanskr/4_rellit/buddh/adhsatpu.htm",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/adhsatpu.htm",
+    "file_type": "legacy_htm",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_adhyardhazatikA-prajJApAramitA",
+    "index": 6,
+    "catalog_title": "Adhyardhasatika Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_adhyardhazatikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_adhyardhazatikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_advayazatikA-prajJApAramitA",
+    "index": 7,
+    "catalog_title": "Advayasatika Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_advayazatikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_advayazatikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ahorAtravratacaityasevAnuzaMsAvadAna",
+    "index": 8,
+    "catalog_title": "Ahoratravratacaityasevanusamsavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ahorAtravratacaityasevAnuzaMsAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ahorAtravratacaityasevAnuzaMsAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ahoratravratakathA",
+    "index": 9,
+    "catalog_title": "Ahoratravratakatha (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ahoratravratakathA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ahoratravratakathA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ahoratravratakathA-prose",
+    "index": 10,
+    "catalog_title": "Ahoratravratakatha, prose version (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ahoratravratakathA-prose.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ahoratravratakathA-prose.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ajitasenavyAkaraNa",
+    "index": 11,
+    "catalog_title": "Ajitasenavyakarana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ajitasenavyAkaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ajitasenavyAkaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ajitasenavyAkaraNa-alt",
+    "index": 12,
+    "catalog_title": "Ajitasenavyakarana [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ajitasenavyAkaraNa-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ajitasenavyAkaraNa-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_amoghapAzahRdayasUtra-mz",
+    "index": 14,
+    "catalog_title": "Amoghapasahrdayasutra",
+    "relative_url": "gretil/corpustei/sa_amoghapAzahRdayasUtra-mz.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_amoghapAzahRdayasUtra-mz.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_amRtAkara-catuHstavasamAsArtha",
+    "index": 15,
+    "catalog_title": "Amrtakara: Catuhstavasamasartha (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_amRtAkara-catuHstavasamAsArtha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_amRtAkara-catuHstavasamAsArtha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_anityatAsUtra",
+    "index": 16,
+    "catalog_title": "Anityatasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_anityatAsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_anityatAsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_aparimitAyuHsUtra",
+    "index": 17,
+    "catalog_title": "Aparimitayuhsutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_aparimitAyuHsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_aparimitAyuHsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_arthavinizcayasUtra",
+    "index": 18,
+    "catalog_title": "Arthaviniscayasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_arthavinizcayasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_arthavinizcayasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_caturdharmanirdezasUtra",
+    "index": 19,
+    "catalog_title": "Aryacaturdharmanirdesasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_caturdharmanirdezasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_caturdharmanirdezasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_AryAnityatAsUtra",
+    "index": 20,
+    "catalog_title": "Aryanityatasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_AryAnityatAsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AryAnityatAsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_AryazUra-jAtakamAlA",
+    "index": 21,
+    "catalog_title": "Aryasura: Jatakamala",
+    "relative_url": "gretil/corpustei/sa_AryazUra-jAtakamAlA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AryazUra-jAtakamAlA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_asaGga-mahAyAnasUtrAlaMkAra-comm",
+    "index": 22,
+    "catalog_title": "Asanga: Mahayanasutralankara, with Vasubandhu's Bhasya (input by Jens Braarvig)",
+    "relative_url": "gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra-comm.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra-comm.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_asaGga-mahAyAnasUtrAlaMkAra",
+    "index": 23,
+    "catalog_title": "Asanga: Mahayanasutralankara (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zrAvakabhUmi",
+    "index": 24,
+    "catalog_title": "Asanga: Sravakabhumi [based on Tokyo ed.] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_zrAvakabhUmi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zrAvakabhUmi.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_asaGga-zrAvakabhUmi-edshukla",
+    "index": 25,
+    "catalog_title": "Asanga: Sravakabhumi [based on Shukla ed.] (input by Ms. Anula Shakya)",
+    "relative_url": "gretil/corpustei/sa_asaGga-zrAvakabhUmi-edshukla.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-zrAvakabhUmi-edshukla.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_asaGga-trizatikAyAH-prajJApAramitAyAH-kArikAsaptatiH",
+    "index": 26,
+    "catalog_title": "Asanga: Trisatikayah Prajnaparamitayah Karikasaptatih (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_asaGga-trizatikAyAH-prajJApAramitAyAH-kArikAsaptatiH.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-trizatikAyAH-prajJApAramitAyAH-kArikAsaptatiH.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_asaGga-zarIrArthagAthA",
+    "index": 27,
+    "catalog_title": "Asanga: Yogacarabhumi: Sarirarthagatha of the Cintamayibhumi (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_asaGga-zarIrArthagAthA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-zarIrArthagAthA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_azokAvadAna",
+    "index": 28,
+    "catalog_title": "Asokavadana [ = Avadana 29 of the Divyavadana] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_azokAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_azokAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_aSTAdazasAhasrikA-prajJApAramitA55-82",
+    "index": 29,
+    "catalog_title": "Astadasasahasrika Prajnaparamita (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_aSTAdazasAhasrikA-prajJApAramitA55-82.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_aSTAdazasAhasrikA-prajJApAramitA55-82.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_aSTasAhasrikA-prajJApAramitA",
+    "index": 30,
+    "catalog_title": "Astasahasrika Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_aSTasAhasrikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_aSTasAhasrikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_avadAnazataka",
+    "index": 32,
+    "catalog_title": "Avadanasataka (input by Klaus Wille, Göttingen)",
+    "relative_url": "gretil/corpustei/sa_avadAnazataka.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_avadAnazataka.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_AyuHparyantasUtra",
+    "index": 33,
+    "catalog_title": "Ayuhparyantasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_AyuHparyantasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AyuHparyantasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bhaiSajyaguruvaidUryaprabharAjasUtra",
+    "index": 35,
+    "catalog_title": "Bhaisajyaguruvaiduryaprabharajasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bhaiSajyaguruvaidUryaprabharAjasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhaiSajyaguruvaidUryaprabharAjasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bhaiSajyavastu",
+    "index": 36,
+    "catalog_title": "Bhaisajyavastu [ = Vinayavastu, 6] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_bhaiSajyavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhaiSajyavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bhavasaMkrAntisUtra",
+    "index": 37,
+    "catalog_title": "Bhavasankrantisutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bhavasaMkrAntisUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhavasaMkrAntisUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bhikSuNIkarmavAcanA",
+    "index": 38,
+    "catalog_title": "Bhiksuni-Karmavacana (input by Michael Schmidt)",
+    "relative_url": "gretil/corpustei/sa_bhikSuNIkarmavAcanA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhikSuNIkarmavAcanA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bhikSuNIvinaya",
+    "index": 39,
+    "catalog_title": "Bhiksunivinaya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bhikSuNIvinaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhikSuNIvinaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_bodhisattvaprAtimokSasUtra",
+    "index": 40,
+    "catalog_title": "Bodhisattvapratimoksasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bodhisattvaprAtimokSasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bodhisattvaprAtimokSasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_buddhabalAdhAnaprAtihAryavikurvANanirdezasUtra",
+    "index": 42,
+    "catalog_title": "Buddhabaladhanapratiharyavikurvananirdesasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_buddhabalAdhAnaprAtihAryavikurvANanirdezasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_buddhabalAdhAnaprAtihAryavikurvANanirdezasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_buddhaghoSa-siddhArthacaritrakAvya",
+    "index": 43,
+    "catalog_title": "Buddhaghosa: Siddharthacaritrakavya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_buddhaghoSa-siddhArthacaritrakAvya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_buddhaghoSa-siddhArthacaritrakAvya.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_buddhist-stotras",
+    "index": 45,
+    "catalog_title": "Buddhist Stotras - I. (input by Jens-Uwe Hartmann)",
+    "relative_url": "gretil/corpustei/sa_buddhist-stotras.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_buddhist-stotras.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_108-buddhist-stotras",
+    "index": 46,
+    "catalog_title": "108 Buddhist Stotras (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_108-buddhist-stotras.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_108-buddhist-stotras.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_buddhist-yoga-manual",
+    "index": 47,
+    "catalog_title": "Buddhist Yoga manual [Buddhistisches Yogalehrbuch] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_buddhist-yoga-manual.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_buddhist-yoga-manual.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_candragomin-ziSyalekha",
+    "index": 48,
+    "catalog_title": "Candaragomin: Sisyalekha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_candragomin-ziSyalekha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candragomin-ziSyalekha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_candrasUtra",
+    "index": 49,
+    "catalog_title": "Candrasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_candrasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candrasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_carmavastu",
+    "index": 50,
+    "catalog_title": "Carmavastu [ = Vinayavastu, 5] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_carmavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_carmavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_cIvaravastu",
+    "index": 51,
+    "catalog_title": "Civaravastu [ = Vinayavastu, 7] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_cIvaravastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_cIvaravastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dazabalasUtra-1-4",
+    "index": 52,
+    "catalog_title": "Dasabalasutra 1-4 (input by Jin-il Chung and Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dazabalasUtra-1-4.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dazabalasUtra-1-4.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dazabhUmikasUtra",
+    "index": 53,
+    "catalog_title": "Dasabhumikasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dazabhUmikasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dazabhUmikasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dazasAhasrikA-prajJApAramitA1-and-2-translated-from-tibetan",
+    "index": 54,
+    "catalog_title": "Dasasahasrika Prajnaparamita, chapter 1 and 2 translated from the Tibetan (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dazasAhasrikA-prajJApAramitA1-and-2-translated-from-tibetan.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dazasAhasrikA-prajJApAramitA1-and-2-translated-from-tibetan.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_devatAsUtra-and-alpadevatAsUtra",
+    "index": 55,
+    "catalog_title": "Devatasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_devatAsUtra-and-alpadevatAsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_devatAsUtra-and-alpadevatAsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_davuldeNa-jJAnezvara-mahAsthavira-yazodharAcarita",
+    "index": 56,
+    "catalog_title": "Davuldena Jnanesvara Mahasthavira: Yasodharacarita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_davuldeNa-jJAnezvara-mahAsthavira-yazodharAcarita.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_davuldeNa-jJAnezvara-mahAsthavira-yazodharAcarita.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_patna-dharmapada",
+    "index": 58,
+    "catalog_title": "Patna Dharmapada (input by Tatsushi Tamai)",
+    "relative_url": "gretil/corpustei/sa_patna-dharmapada.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_patna-dharmapada.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dharmaskandha",
+    "index": 59,
+    "catalog_title": "Dharmaskanda (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dharmaskandha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmaskandha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dhvajAgrakeyUrAdhAriNI-alt",
+    "index": 60,
+    "catalog_title": "Dhvajagrakeyuradharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dhvajAgrakeyUrAdhAriNI-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhvajAgrakeyUrAdhAriNI-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dhvajAgrakeyUrAdhAriNI",
+    "index": 61,
+    "catalog_title": "Dhvajagrakeyura-Dharani (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dhvajAgrakeyUrAdhAriNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhvajAgrakeyUrAdhAriNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dhvajAgrasUtra",
+    "index": 62,
+    "catalog_title": "Dhvajagrasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dhvajAgrasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhvajAgrasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dIpaMkarabhadra-guhyasamAjamaNDalavidhi",
+    "index": 63,
+    "catalog_title": "Dipamkarabhadra: Guhyasamajamandalavidhi (input by S. Klein-Schwind)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarabhadra-guhyasamAjamaNDalavidhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarabhadra-guhyasamAjamaNDalavidhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_divyAvadAna",
+    "index": 64,
+    "catalog_title": "Divyavadana (input by Kensuke Okamoto)",
+    "relative_url": "gretil/corpustei/sa_divyAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_divyAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_dvAviMzatyavadAnakathA",
+    "index": 65,
+    "catalog_title": "Dvavimsatyavadanakatha (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dvAviMzatyavadAnakathA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dvAviMzatyavadAnakathA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ekAdazamukhahRdaya",
+    "index": 66,
+    "catalog_title": "Ekadasamukhahrdaya (input by Somadeva Vasudeva)",
+    "relative_url": "gretil/corpustei/sa_ekAdazamukhahRdaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ekAdazamukhahRdaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ekAdazamukha",
+    "index": 67,
+    "catalog_title": "Ekadasamukhahrdaya [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ekAdazamukha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ekAdazamukha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ekottarAgamafragments",
+    "index": 68,
+    "catalog_title": "Ekottaragama (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ekottarAgamafragments.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ekottarAgamafragments.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_gaNapatihRdaydhAraNI",
+    "index": 69,
+    "catalog_title": "Ganapatihrdayadharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_gaNapatihRdaydhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gaNapatihRdaydhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_gaNDavyUhasUtra",
+    "index": 70,
+    "catalog_title": "Gandavyuhasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_gaNDavyUhasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gaNDavyUhasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_gopadatta-jAtakamAlA",
+    "index": 71,
+    "catalog_title": "Gopadatta: Jatakamala (input by Michael Hahn, proof-read by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_gopadatta-jAtakamAlA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gopadatta-jAtakamAlA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_grahamAtRkAdhAraNI",
+    "index": 72,
+    "catalog_title": "Grahamatrkanamadharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_grahamAtRkAdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_grahamAtRkAdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_guNakAraNDavyUhasUtra",
+    "index": 73,
+    "catalog_title": "Gunakarandavyuhasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_guNakAraNDavyUhasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_guNakAraNDavyUhasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vinayasUtra",
+    "index": 74,
+    "catalog_title": "Gunaprabha (c. 5th cent.): Vinayasutra [a sutra-style compendium of the Vinayavastu] (input by Yoshiyasu Yonezawa et al., Taisho University)",
+    "relative_url": "gretil/corpustei/sa_vinayasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vinayasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vinayasUtra-1pravrajyAvastu",
+    "index": 75,
+    "catalog_title": "Gunaprabha: Vinayasutra, 1: Pravrajyavastu (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vinayasUtra-1pravrajyAvastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vinayasUtra-1pravrajyAvastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_haribhaTTa-jAtakamAlA1-8--11-12--19-20--22--24--26--32--35",
+    "index": 76,
+    "catalog_title": "Haribhatta: Jatakamala, Jatakas 1-8, 11-12, 19-20, 22, 24, 26, 32, 35 (input by Michael Hahn and Klaus Wille [Jat. 1])",
+    "relative_url": "gretil/corpustei/sa_haribhaTTa-jAtakamAlA1-8--11-12--19-20--22--24--26--32--35.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_haribhaTTa-jAtakamAlA1-8--11-12--19-20--22--24--26--32--35.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_hayagrIvavidyA",
+    "index": 77,
+    "catalog_title": "Hayagrivavidya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_hayagrIvavidyA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_hayagrIvavidyA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_jayarakSita-sphuTArthA-zrIghanAcArasaMgrahaTIkA",
+    "index": 78,
+    "catalog_title": "Jayaraksita: Sphutartha Srighanacarasamgrahatika [comm. on Srighanacarasamgraha] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_jayarakSita-sphuTArthA-zrIghanAcArasaMgrahaTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jayarakSita-sphuTArthA-zrIghanAcArasaMgrahaTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_jJAnAlokAlaMkArasUtra",
+    "index": 79,
+    "catalog_title": "Jnanalokalamkara (input by the members of the Study Group on Buddhist Sanskrit Literature, Taisho University, Tokyo)",
+    "relative_url": "gretil/corpustei/sa_jJAnAlokAlaMkArasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jJAnAlokAlaMkArasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_jJAnayazas-jAtakastava",
+    "index": 80,
+    "catalog_title": "Jnanayasas: Jatakastava (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_jJAnayazas-jAtakastava.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jJAnayazas-jAtakastava.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kalpadrumAvadAnamAlA",
+    "index": 81,
+    "catalog_title": "Kalpadrumavadanamala (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kalpadrumAvadAnamAlA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kalpadrumAvadAnamAlA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kamalazIla-vajracchedikATIkA",
+    "index": 82,
+    "catalog_title": "Kamalasila: Vajracchedikatika [comm. on the Vajracchedika Prajnaparamita] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kamalazIla-vajracchedikATIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kamalazIla-vajracchedikATIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kambalapAda-navazlokI",
+    "index": 83,
+    "catalog_title": "Kambalapada: Navasloki [on Astasahasrika Prajnaparamita] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kambalapAda-navazlokI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kambalapAda-navazlokI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kAraNDavyUha",
+    "index": 84,
+    "catalog_title": "Karandavyuha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kAraNDavyUha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAraNDavyUha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_karmavastu",
+    "index": 85,
+    "catalog_title": "Karmavastu [ = Vinayavastu, 10] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_karmavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_karmavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_karmavibhaGgopadeza",
+    "index": 86,
+    "catalog_title": "Karmavibhangopadesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_karmavibhaGgopadeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_karmavibhaGgopadeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_karuNApuNDarIkasUtra",
+    "index": 87,
+    "catalog_title": "Karunapundarikasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_karuNApuNDarIkasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_karuNApuNDarIkasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kAzyapaparivartasUtra",
+    "index": 88,
+    "catalog_title": "Kasyapaparivartasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kAzyapaparivartasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAzyapaparivartasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kAzyapaparivartasUtra-alt",
+    "index": 89,
+    "catalog_title": "Kasyapaparivartasutra [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kAzyapaparivartasUtra-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAzyapaparivartasUtra-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kaThinAvadAna",
+    "index": 90,
+    "catalog_title": "Kathinavadana (input by Lennart Hartmann)",
+    "relative_url": "gretil/corpustei/sa_kaThinAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kaThinAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kaThinavastu",
+    "index": 91,
+    "catalog_title": "Kathinavastu [ = Vinayavastu, 8] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kaThinavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kaThinavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kauzikaprajJApAramitAsUtra",
+    "index": 92,
+    "catalog_title": "Kausikaprajnaparamitasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kauzikaprajJApAramitAsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kauzikaprajJApAramitAsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_khasarpaNasAdhana",
+    "index": 93,
+    "catalog_title": "Khasarpanasadhana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_khasarpaNasAdhana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_khasarpaNasAdhana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kozAmbakavastu",
+    "index": 94,
+    "catalog_title": "Kosambakavastu [ = Vinayavastu, 9] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kozAmbakavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kozAmbakavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kSemendra-avadAnakalpalatA",
+    "index": 95,
+    "catalog_title": "Ksemendra: Avadanakalpalata (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kSemendra-avadAnakalpalatA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-avadAnakalpalatA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kSemendra-garbhAvakrAntyavadAna",
+    "index": 96,
+    "catalog_title": "Ksemendra: Avadanakalpalata, no. 10: Garbhavakrantyavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kSemendra-garbhAvakrAntyavadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-garbhAvakrAntyavadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kSemendra-sudhanakinnaryavadAna",
+    "index": 97,
+    "catalog_title": "Ksemendra: Avadanakalpalata, no 64: Sudhanakinnaryavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kSemendra-sudhanakinnaryavadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-sudhanakinnaryavadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kSemendra-pratItyasamutpAdAvadAna",
+    "index": 98,
+    "catalog_title": "Ksemendra: Avadanakalpalata, no. 75: Pratityasamutpadavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kSemendra-pratItyasamutpAdAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-pratItyasamutpAdAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kSemendra-bodhisattvAvadAnakalpalatA-93sumAgadhAvadAna",
+    "index": 99,
+    "catalog_title": "Ksemendra: Avadanakalpalata, no. 93: Sumagadhavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kSemendra-bodhisattvAvadAnakalpalatA-93sumAgadhAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-bodhisattvAvadAnakalpalatA-93sumAgadhAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_kumAralAta-kalpanAmaNDitikA",
+    "index": 100,
+    "catalog_title": "Kumaralata: Kalpanamanditika (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_kumAralAta-kalpanAmaNDitikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kumAralAta-kalpanAmaNDitikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_lakSmINkarA-advayasiddhi",
+    "index": 101,
+    "catalog_title": "Laksminkara: Advayasiddhi (input by Peter Gäng)",
+    "relative_url": "gretil/corpustei/sa_lakSmINkarA-advayasiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_lakSmINkarA-advayasiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_lalitavistara",
+    "index": 102,
+    "catalog_title": "Lalitavistara (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_lalitavistara.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_lalitavistara.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_larger-prajJApAramitA",
+    "index": 104,
+    "catalog_title": "Larger Prajnaparamita, Gilgit Ms., fols. 1-27 (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_larger-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_larger-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_larger-prajJApAramitA-edchoong",
+    "index": 105,
+    "catalog_title": "Larger Prajnaparamita, Gilgit Ms., fols. 202-205 (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_larger-prajJApAramitA-edchoong.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_larger-prajJApAramitA-edchoong.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_madhyamakazAlistambasUtra",
+    "index": 106,
+    "catalog_title": "Madhyamakasalistambasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_madhyamakazAlistambasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_madhyamakazAlistambasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAkarmavibhaGga",
+    "index": 107,
+    "catalog_title": "Mahakarmavibhanga (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAkarmavibhaGga.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAkarmavibhaGga.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAmaNivipulavimAnavizvasupratiSThitaguhyaparamarahasyakalparAjadhAraNI",
+    "index": 108,
+    "catalog_title": "Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparajadharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAmaNivipulavimAnavizvasupratiSThitaguhyaparamarahasyakalparAjadhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAmaNivipulavimAnavizvasupratiSThitaguhyaparamarahasyakalparAjadhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAmantrAnusAriNI",
+    "index": 109,
+    "catalog_title": "Mahamantranusarini (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAmantrAnusAriNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAmantrAnusAriNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAmAyUrIvidyArAjJI",
+    "index": 110,
+    "catalog_title": "Mahamayuri vidyarajni [cf. Pancaraksa] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAmAyUrIvidyArAjJI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAmAyUrIvidyArAjJI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAparinirvANasUtra",
+    "index": 111,
+    "catalog_title": "Mahaparinirvanasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAparinirvANasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAparinirvANasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahApratisarAvidyAdhAraNI",
+    "index": 112,
+    "catalog_title": "Mahapratisaravidyadharani (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_mahApratisarAvidyAdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahApratisarAvidyAdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahApratisarA-paJcarakSA",
+    "index": 113,
+    "catalog_title": "Mahapratisara vidyarajni, 1937 ed. [cf. Pancaraksa] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahApratisarA-paJcarakSA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahApratisarA-paJcarakSA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahApratisarAmahAvidyArAjJI",
+    "index": 114,
+    "catalog_title": "Mahapratisaramahavidyarajni, 2012 ed. [cf. Pancaraksa] (input by Gergely Hidas)",
+    "relative_url": "gretil/corpustei/sa_mahApratisarAmahAvidyArAjJI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahApratisarAmahAvidyArAjJI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahApratisarAvidyAvidhi",
+    "index": 115,
+    "catalog_title": "Mahapratisaravidyavidhi (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahApratisarAvidyAvidhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahApratisarAvidyAvidhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAsAhasrapramardanI",
+    "index": 116,
+    "catalog_title": "Mahasahasrapramardani vidyarajni [cf. Pancaraksa] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAsAhasrapramardanI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAsAhasrapramardanI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAsaMnipAtaratnaketudhAraNIsUtra",
+    "index": 117,
+    "catalog_title": "Mahasannipataratnaketudharanisutra, or Ratnaketuparivarta (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAsaMnipAtaratnaketudhAraNIsUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAsaMnipAtaratnaketudhAraNIsUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAsaMnipAtaratnaketudhAraNIsUtra1-610-11",
+    "index": 118,
+    "catalog_title": "Mahasannipataratnaketudharanisutra, or Ratnaketuparivarta, alternative version (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_mahAsaMnipAtaratnaketudhAraNIsUtra1-610-11.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAsaMnipAtaratnaketudhAraNIsUtra1-610-11.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAzItavatI-vidyArAjJI",
+    "index": 119,
+    "catalog_title": "Mahasitavati vidyarajni (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAzItavatI-vidyArAjJI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAzItavatI-vidyArAjJI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAdaNDadhAraNIzItavatI",
+    "index": 120,
+    "catalog_title": "Mahadandadharanisitavati (input by Gergely Hidas)",
+    "relative_url": "gretil/corpustei/sa_mahAdaNDadhAraNIzItavatI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAdaNDadhAraNIzItavatI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAsudarzanAvadAna",
+    "index": 121,
+    "catalog_title": "Mahasudarsanavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mahAsudarzanAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAsudarzanAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAvadAnasUtra",
+    "index": 122,
+    "catalog_title": "Mahavadanasutra (input by Takamichi Fukita)",
+    "relative_url": "gretil/corpustei/sa_mahAvadAnasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAvadAnasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mahAvastu-avAdana",
+    "index": 123,
+    "catalog_title": "Mahavastu-Avadana (input by Emmanuel Fauré)",
+    "relative_url": "gretil/corpustei/sa_mahAvastu-avAdana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAvastu-avAdana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maitreyanAtha-abhisamayAlaMkaranAmaprajJApAramitopadezazAstra",
+    "index": 124,
+    "catalog_title": "Maitreyanatha: Abhisamayalamkaranamaprajnaparamitopadesasastra (input by Christian Coseru)",
+    "relative_url": "gretil/corpustei/sa_maitreyanAtha-abhisamayAlaMkaranAmaprajJApAramitopadezazAstra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyanAtha-abhisamayAlaMkaranAmaprajJApAramitopadezazAstra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maitreyavyAkaraNa",
+    "index": 125,
+    "catalog_title": "Maitreyavyakarana (input by Jens-Uwe Hartmann)",
+    "relative_url": "gretil/corpustei/sa_maitreyavyAkaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyavyAkaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maitreyavyAkaraNa-alt",
+    "index": 126,
+    "catalog_title": "Maitreyavyakarana [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_maitreyavyAkaraNa-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyavyAkaraNa-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maJjuzrImUlakalpa",
+    "index": 127,
+    "catalog_title": "Manjusrimulakalpa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_maJjuzrImUlakalpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maJjuzrImUlakalpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maJjuzrInAmasaMgIti",
+    "index": 128,
+    "catalog_title": "Manjusrinamasamgiti (input by Ian Sinclair)",
+    "relative_url": "gretil/corpustei/sa_maJjuzrInAmasaMgIti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maJjuzrInAmasaMgIti.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_maJjuzrInAmasaMgIti-alt",
+    "index": 129,
+    "catalog_title": "Manjusrinamasamgiti [alternative version] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_maJjuzrInAmasaMgIti-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maJjuzrInAmasaMgIti-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mArIcInAmadhAraNI",
+    "index": 130,
+    "catalog_title": "Maricinamadharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mArIcInAmadhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mArIcInAmadhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mAtRceTa-zatapaJcAzatka",
+    "index": 131,
+    "catalog_title": "Matrceta: Prasadapratibhodhava [ = Satapancasatka] (input by Jens-Uwe Hartmann)",
+    "relative_url": "gretil/corpustei/sa_mAtRceTa-zatapaJcAzatka.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mAtRceTa-zatapaJcAzatka.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mekhalAdhAraNI",
+    "index": 132,
+    "catalog_title": "Mekhaladharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_mekhalAdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mekhalAdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mRtyuvaJcanasitatArAsAdhana",
+    "index": 133,
+    "catalog_title": "Mrtyuvancanasitatarasadhana (input by Johannes Schneider) [see also Vagisvarakirti: Mrtyuvancanopadesa]",
+    "relative_url": "gretil/corpustei/sa_mRtyuvaJcanasitatArAsAdhana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mRtyuvaJcanasitatArAsAdhana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mRtyuvaJcanatArAsAdhana",
+    "index": 134,
+    "catalog_title": "Mrtyuvancanatarasadhana (input by Johannes Schneider) [see also Vagisvarakirti: Mrtyuvancanopadesa]",
+    "relative_url": "gretil/corpustei/sa_mRtyuvaJcanatArAsAdhana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mRtyuvaJcanatArAsAdhana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_mRtyuvaJcanopadezatArAsAdhana",
+    "index": 135,
+    "catalog_title": "Mrtyuvancanopadesatarasadhana (input by Johannes Schneider) [see also Vagisvarakirti: Mrtyuvancanopadesa]",
+    "relative_url": "gretil/corpustei/sa_mRtyuvaJcanopadezatArAsAdhana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mRtyuvaJcanopadezatArAsAdhana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_nagaropamasUtra",
+    "index": 136,
+    "catalog_title": "Nagaropamasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_nagaropamasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nagaropamasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_nagnajit-citralakSaNam",
+    "index": 137,
+    "catalog_title": "Nagnajit: Citralaksana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nagnajit-citralakSaNam.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nagnajit-citralakSaNam.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_nairAtmyaparipRcchAmahAyAnasUtra",
+    "index": 138,
+    "catalog_title": "Nairatmyapariprcchamahayanasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nairAtmyaparipRcchAmahAyAnasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nairAtmyaparipRcchAmahAyAnasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_namaskAraikaviMzatistotra",
+    "index": 139,
+    "catalog_title": "Namaskaraikavimsatistotra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_namaskAraikaviMzatistotra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_namaskAraikaviMzatistotra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_nidAnasaMyukta",
+    "index": 140,
+    "catalog_title": "Nidanasamyukta (input by Seishi Karashima)",
+    "relative_url": "gretil/corpustei/sa_nidAnasaMyukta.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nidAnasaMyukta.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_nityakarmapUjAvidhi",
+    "index": 141,
+    "catalog_title": "Nityakarmapujavidhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nityakarmapUjAvidhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nityakarmapUjAvidhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pAMzupradAna-avadAna",
+    "index": 142,
+    "catalog_title": "Pamsupradanavadana (transliterated by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pAMzupradAna-avadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pAMzupradAna-avadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_paJcaviMzatisAhasrikA-prajJApAramitA1",
+    "index": 144,
+    "catalog_title": "Pancavimsatisahasrika Prajnaparamita 1 [based on Dutt ed.] (input by Kenta Suzuki and Koichi Takahashi)",
+    "relative_url": "gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA1.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA1.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_paJcaviMzatisAhasrikA-prajJApAramitA1-8",
+    "index": 145,
+    "catalog_title": "Pancavimsatisahasrika Prajnaparamita 1-8 (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA1-8.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA1-8.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_paJcaviMzatisAhasrikA-prajJApAramitA",
+    "index": 146,
+    "catalog_title": "Pancavimsatisahasrika Prajnaparamita, Anuradhapura fragment (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_paJcaviMzatisAhasrikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pANDulohitakavastu",
+    "index": 147,
+    "catalog_title": "Pandulohitakavastu [ = Vinayavastu, 11] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pANDulohitakavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pANDulohitakavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pArivAsikavastu",
+    "index": 148,
+    "catalog_title": "Parivasikavastu [ = Vinayavastu, 13] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pArivAsikavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pArivAsikavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_poSadhasthApanavastu",
+    "index": 149,
+    "catalog_title": "Posadhasthapanavastu [ = Vinayavastu, 14] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_poSadhasthApanavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_poSadhasthApanavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_poSadhavastu",
+    "index": 150,
+    "catalog_title": "Posadhavastu [ = Vinayavastu, 2] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_poSadhavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_poSadhavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prajJApAramitAhRdayasUtra",
+    "index": 153,
+    "catalog_title": "Prajnaparamitahrdayasutra (input by John Richards)",
+    "relative_url": "gretil/corpustei/sa_prajJApAramitAhRdayasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prajJApAramitAhRdayasUtrasaMkSiptamAtRkA",
+    "index": 154,
+    "catalog_title": "Prajnaparamitahrdayasutra [samksiptamatrka] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_prajJApAramitAhRdayasUtrasaMkSiptamAtRkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtrasaMkSiptamAtRkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prajJApAramitAhRdayasUtravistaramAtRkA",
+    "index": 155,
+    "catalog_title": "Prajnaparamitahrdayasutra [vistaramatrka] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_prajJApAramitAhRdayasUtravistaramAtRkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtravistaramAtRkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_fragments-of-prajJApAramitA-texts",
+    "index": 156,
+    "catalog_title": "Prajnaparamita texts, fragments (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_fragments-of-prajJApAramitA-texts.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_fragments-of-prajJApAramitA-texts.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prAtimokSasUtra-of-the-sarvAstivAdins",
+    "index": 157,
+    "catalog_title": "Pratimoksasutra (input by Georg von Simson)",
+    "relative_url": "gretil/corpustei/sa_prAtimokSasUtra-of-the-sarvAstivAdins.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prAtimokSasUtra-of-the-sarvAstivAdins.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prAtimokSasUtra-of-the-lokottaravAdimahAsaGghika",
+    "index": 158,
+    "catalog_title": "Pratimoksasutra of the Lokottaravadimahasanghika (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_prAtimokSasUtra-of-the-lokottaravAdimahAsaGghika.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prAtimokSasUtra-of-the-lokottaravAdimahAsaGghika.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prAtimokSasUtra-of-the-mahAsAMghikas",
+    "index": 159,
+    "catalog_title": "Pratimoksasutra of the Mahasamghikas (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_prAtimokSasUtra-of-the-mahAsAMghikas.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prAtimokSasUtra-of-the-mahAsAMghikas.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prAtimokSasUtra-of-the-mUlasarvAstivAdins",
+    "index": 160,
+    "catalog_title": "Pratimoksasutra of the Mulasarvastivadins (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_prAtimokSasUtra-of-the-mUlasarvAstivAdins.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prAtimokSasUtra-of-the-mUlasarvAstivAdins.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_prAtimokSasUtrafragments",
+    "index": 161,
+    "catalog_title": "Pratimoksasutra [fragments] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_prAtimokSasUtrafragments.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prAtimokSasUtrafragments.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pratisarAkalpadhAraNI",
+    "index": 162,
+    "catalog_title": "Pratisarakalpadharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pratisarAkalpadhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratisarAkalpadhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pratItyasamutpAdavibhaGgasUtra",
+    "index": 163,
+    "catalog_title": "Pratityasamutpadavibhangasutra",
+    "relative_url": "gretil/corpustei/sa_pratItyasamutpAdavibhaGgasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratItyasamutpAdavibhaGgasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pratItyasamutpAdamahAyAnasUtra",
+    "index": 164,
+    "catalog_title": "Pratityasamutpadamahayanasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_pratItyasamutpAdamahAyAnasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratItyasamutpAdamahAyAnasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pravAraNAvastu",
+    "index": 165,
+    "catalog_title": "Pravaranavastu [ = Vinayavastu, 3] (input by Jin-il Chung & Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pravAraNAvastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pravAraNAvastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pravrajyAvastu",
+    "index": 166,
+    "catalog_title": "Pravrajyavastu [ = Vinayavastu, 1] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pravrajyAvastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pravrajyAvastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_pudgalavastu",
+    "index": 167,
+    "catalog_title": "Pudgalavastu [ = Vinayavastu, 12] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_pudgalavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pudgalavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_rAhulabhadra-prajJApAramitAstotra",
+    "index": 168,
+    "catalog_title": "Rahulabhadra: Prajnaparamitastotra (input by Lennart and Jens-Uwe Hartmann)",
+    "relative_url": "gretil/corpustei/sa_rAhulabhadra-prajJApAramitAstotra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rAhulabhadra-prajJApAramitAstotra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_rASTrapAlaparipRcchA",
+    "index": 169,
+    "catalog_title": "Rastrapalapariprccha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_rASTrapAlaparipRcchA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rASTrapAlaparipRcchA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_rASTrapAlasUtra",
+    "index": 170,
+    "catalog_title": "Rastrapalasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_rASTrapAlasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rASTrapAlasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ratnaguNasaMcayagAthA",
+    "index": 171,
+    "catalog_title": "Ratnagunasamcayagatha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnaguNasaMcayagAthA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnaguNasaMcayagAthA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ratnAkarazAnti-bhramaharanAma-hevajrasAdhana",
+    "index": 172,
+    "catalog_title": "Ratnakarasanti: Bhramaharanama Hevajrasadhana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ratnAkarazAnti-bhramaharanAma-hevajrasAdhana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnAkarazAnti-bhramaharanAma-hevajrasAdhana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ratnAkarazAnti-sAratama",
+    "index": 173,
+    "catalog_title": "Ratnakarasanti: Saratama [a Panjika on the Astasahasrika Prajnaparamita] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnAkarazAnti-sAratama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnAkarazAnti-sAratama.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_ratnamAlAvadAna",
+    "index": 175,
+    "catalog_title": "Ratnamalavadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_ratnamAlAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnamAlAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sabhikasaugatazAsanapravrajyAvratacaraNaparivarta",
+    "index": 176,
+    "catalog_title": "Sabhikasaugatasasanapravrajyavratacaranaparivarta (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_sabhikasaugatazAsanapravrajyAvratacaraNaparivarta.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sabhikasaugatazAsanapravrajyAvratacaraNaparivarta.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saddharmalaGkAvatArasUtra",
+    "index": 178,
+    "catalog_title": "Saddharmalankavatarasutra [Lankavatarasutra] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_saddharmalaGkAvatArasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saddharmalaGkAvatArasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saddharmapuNDarIkasUtra",
+    "index": 179,
+    "catalog_title": "Saddharmapundarikasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_saddharmapuNDarIkasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saddharmapuNDarIkasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra",
+    "index": 180,
+    "catalog_title": "Sagaranagarajapariprcchasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zAlistambasUtra",
+    "index": 181,
+    "catalog_title": "Salistambasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zAlistambasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAlistambasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_samAdhirAjasUtra",
+    "index": 182,
+    "catalog_title": "Samadhirajasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_samAdhirAjasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_samAdhirAjasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_samAdhirAjasUtratransliteration-1-111315-22",
+    "index": 183,
+    "catalog_title": "Samadhirajasutra, Chapters 1-11, 13, 15-22 [transliteration of Gilgit ms.] (input by Kazuhiro Shimizu)",
+    "relative_url": "gretil/corpustei/sa_samAdhirAjasUtratransliteration-1-111315-22.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_samAdhirAjasUtratransliteration-1-111315-22.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saMghATasUtra",
+    "index": 185,
+    "catalog_title": "Samghatasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_saMghATasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saMghATasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saMghATasUtra-alt",
+    "index": 186,
+    "catalog_title": "Samghatasutra [alternative version] (input by Anne Peters and Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_saMghATasUtra-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saMghATasUtra-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_samyaksaMbuddhabhASitaM-pratimAlakSaNam",
+    "index": 187,
+    "catalog_title": "Samyaksambuddhabhasitam Pratimalaksanam (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_samyaksaMbuddhabhASitaM-pratimAlakSaNam.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_samyaksaMbuddhabhASitaM-pratimAlakSaNam.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saMyuktAgama-966-972-according-to-the-chinese-canon",
+    "index": 188,
+    "catalog_title": "Samyuktagama (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_saMyuktAgama-966-972-according-to-the-chinese-canon.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saMyuktAgama-966-972-according-to-the-chinese-canon.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saGghabhedavastu",
+    "index": 189,
+    "catalog_title": "Sanghabhedavastu [ = Vinayavastu, 17] (input by Seishi Karashima and Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_saGghabhedavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saGghabhedavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_saptazatikA-prajJApAramitA",
+    "index": 190,
+    "catalog_title": "Saptasatika Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_saptazatikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saptazatikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zArdUlakarNAvadAna",
+    "index": 191,
+    "catalog_title": "Sardulakarnavadana [ = Avadana 33 of the Divyavadana] (input by Mizue Sugita)",
+    "relative_url": "gretil/corpustei/sa_zArdUlakarNAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zArdUlakarNAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sarvadurgatiparizodhanatantra",
+    "index": 192,
+    "catalog_title": "Sarvadurgatiparisodhanatantra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_sarvadurgatiparizodhanatantra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sarvadurgatiparizodhanatantra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sarvajJatAkAradhAraNI",
+    "index": 193,
+    "catalog_title": "Sarvajnatakaradharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_sarvajJatAkAradhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sarvajJatAkAradhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sarvatathAgatAdhiSThAnavyUhasUtra",
+    "index": 194,
+    "catalog_title": "Sarvatathagatadhisthanavyuhasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_sarvatathAgatAdhiSThAnavyUhasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sarvatathAgatAdhiSThAnavyUhasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sarvatathAgatatattvasaMgraha",
+    "index": 195,
+    "catalog_title": "Sarvatathagatatattvasamgraha (input by Udip Shakya and Anula Shakya)",
+    "relative_url": "gretil/corpustei/sa_sarvatathAgatatattvasaMgraha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sarvatathAgatatattvasaMgraha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sitAtapatrA",
+    "index": 196,
+    "catalog_title": "Sarvatathagatosnisasitatpatra-nama-aparitamahapratyangiravidyarajni (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_sitAtapatrA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sitAtapatrA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zatasAhasrikAprajJApAramitA-1",
+    "index": 197,
+    "catalog_title": "Satasahasrika Prajnaparamita, I (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_zatasAhasrikAprajJApAramitA-1.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zatasAhasrikAprajJApAramitA-1.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zatasAhasrikA-prajJApAramitA-2",
+    "index": 198,
+    "catalog_title": "Satasahasrika Prajnaparamita, II (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_zatasAhasrikA-prajJApAramitA-2.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zatasAhasrikA-prajJApAramitA-2.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_satyasUtra",
+    "index": 199,
+    "catalog_title": "Satyasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_satyasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_satyasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zayanAsanavastu",
+    "index": 200,
+    "catalog_title": "Sayanasanavastu [ = Vinayavastu, 15] (input by Seishi Karashima)",
+    "relative_url": "gretil/corpustei/sa_zayanAsanavastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zayanAsanavastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zrIghanAcArasaMgraha",
+    "index": 201,
+    "catalog_title": "Srighanacarasamgraha [reconstructed from Jayaraksita's Sphutartha Srighanacarasamgrahatika] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zrIghanAcArasaMgraha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zrIghanAcArasaMgraha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_zrImahAdevIvyAkaraNa",
+    "index": 202,
+    "catalog_title": "Srimahadevivyakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zrImahAdevIvyAkaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zrImahAdevIvyAkaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_stUpalakSaNakArikAvivecana",
+    "index": 204,
+    "catalog_title": "Stupalaksanakarikavivecana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_stUpalakSaNakArikAvivecana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_stUpalakSaNakArikAvivecana.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_subhASitaratnakaraNDakathA",
+    "index": 205,
+    "catalog_title": "Subhasitaratnakarandakatha (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_subhASitaratnakaraNDakathA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_subhASitaratnakaraNDakathA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_smaller-sukhAvatIvyUha",
+    "index": 206,
+    "catalog_title": "Sukhavativyuha (input by Yoshimichi Fujita)",
+    "relative_url": "gretil/corpustei/sa_smaller-sukhAvatIvyUha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_smaller-sukhAvatIvyUha.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sukhAvatIvyUhasaMkSiptamAtRkA",
+    "index": 207,
+    "catalog_title": "Sukhavativyuha [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_sukhAvatIvyUhasaMkSiptamAtRkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sukhAvatIvyUhasaMkSiptamAtRkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_sumAgadhAvadAna",
+    "index": 208,
+    "catalog_title": "Sumagadha-Avadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_sumAgadhAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sumAgadhAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_suvarNaprabhAsasUtra",
+    "index": 209,
+    "catalog_title": "Suvarnaprabhasasutra [ = Suvarnabhasottamasutra] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_suvarNaprabhAsasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_suvarNaprabhAsasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_suvarNavarNAvadAna",
+    "index": 210,
+    "catalog_title": "Suvarnavarnavadana (input by Jens Braarvig)",
+    "relative_url": "gretil/corpustei/sa_suvarNavarNAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_suvarNavarNAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_suvikrAntavikrAmiparipRcchA",
+    "index": 211,
+    "catalog_title": "Suvikrantavikramipariprccha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_suvikrAntavikrAmiparipRcchA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_suvikrAntavikrAmiparipRcchA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_svAgatasUtra",
+    "index": 212,
+    "catalog_title": "Svagatasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_svAgatasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_svAgatasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_svalpAkSarA-prajJApAramitA",
+    "index": 213,
+    "catalog_title": "Svalpaksara Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_svalpAkSarA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_svalpAkSarA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_svayaMbhupurANa",
+    "index": 214,
+    "catalog_title": "Svayambhu-Purana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_svayaMbhupurANa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_svayaMbhupurANa.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_tArAbhaTTArikAnAmASTottarazatakastotra",
+    "index": 215,
+    "catalog_title": "Tarabhattarikanamastottarasatakastotra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_tArAbhaTTArikAnAmASTottarazatakastotra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tArAbhaTTArikAnAmASTottarazatakastotra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_tArAsragdharAstotra",
+    "index": 216,
+    "catalog_title": "Tarasragdharastotra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_tArAsragdharAstotra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tArAsragdharAstotra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_tathAgatabimbakArApaNasUtra",
+    "index": 217,
+    "catalog_title": "Tathagatabimbakarapanasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_tathAgatabimbakArApaNasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tathAgatabimbakArApaNasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_triskandhasUtra",
+    "index": 219,
+    "catalog_title": "Triskandhasutra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_triskandhasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_triskandhasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_udAnavarga",
+    "index": 220,
+    "catalog_title": "Udanavarga (input by Muneo Tokunaga)",
+    "relative_url": "gretil/corpustei/sa_udAnavarga.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_udAnavarga.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_upasaMpadAjJapti",
+    "index": 221,
+    "catalog_title": "Upasampadajnapti (input by Jin-il Chung)",
+    "relative_url": "gretil/corpustei/sa_upasaMpadAjJapti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_upasaMpadAjJapti.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vAgIzvarakIrti-mRtyuvaJcanopadeza",
+    "index": 222,
+    "catalog_title": "Vagisvarakirti: Mrtyuvancanopadesa (input by Johannes Schneider) [see also s.v. Sadhana]",
+    "relative_url": "gretil/corpustei/sa_vAgIzvarakIrti-mRtyuvaJcanopadeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vAgIzvarakIrti-mRtyuvaJcanopadeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vajracchedikA-prajJApAramitA",
+    "index": 223,
+    "catalog_title": "Vajracchedika Prajnaparamita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vajracchedikA-prajJApAramitA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vajracchedikA-prajJApAramitA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vajracchedikA-prajJApAramitA-frag",
+    "index": 224,
+    "catalog_title": "Vajracchedika Prajnaparamita, fragment from Afghanistan (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vajracchedikA-prajJApAramitA-frag.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vajracchedikA-prajJApAramitA-frag.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vajracchedikA-prajJApAramitA-gilgit",
+    "index": 225,
+    "catalog_title": "Vajracchedika Prajnaparamita, Gilgit ms. (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vajracchedikA-prajJApAramitA-gilgit.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vajracchedikA-prajJApAramitA-gilgit.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vajravidAraNAdhAraNI",
+    "index": 226,
+    "catalog_title": "Vajravidaranadharani (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vajravidAraNAdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vajravidAraNAdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vajravidAraNIdhAraNI",
+    "index": 227,
+    "catalog_title": "Vajravidaranidharani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vajravidAraNIdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vajravidAraNIdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_varSAvastu",
+    "index": 228,
+    "catalog_title": "Varsavastu [ = Vinayavastu, 4] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_varSAvastu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_varSAvastu.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vasudhArAdhAraNI",
+    "index": 229,
+    "catalog_title": "Vasudharadharani #1 (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vasudhArAdhAraNI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasudhArAdhAraNI.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vasudhArAdhAraNI-gilgit",
+    "index": 230,
+    "catalog_title": "Vasudharadharani #2 (transliterated from the manuscript by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vasudhArAdhAraNI-gilgit.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasudhArAdhAraNI-gilgit.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vasudhArAdhAraNI-alt",
+    "index": 231,
+    "catalog_title": "Vasudharadharani #3 (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasudhArAdhAraNI-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasudhArAdhAraNI-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vidyAsthAnopamasUtra",
+    "index": 232,
+    "catalog_title": "Vidyasthanopamasutra (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vidyAsthAnopamasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vidyAsthAnopamasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vimalakIrtinirdeza",
+    "index": 233,
+    "catalog_title": "Vimalakirtinirdesa (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vimalakIrtinirdeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vimalakIrtinirdeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vimalakIrtinirdezasUtra",
+    "index": 234,
+    "catalog_title": "Vimalakirtinirdesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vimalakIrtinirdezasUtra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vimalakIrtinirdezasUtra.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vinayavinizcayaupAliparipRcchA",
+    "index": 237,
+    "catalog_title": "Vinayaviniscaya upalipariprccha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vinayavinizcayaupAliparipRcchA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vinayavinizcayaupAliparipRcchA.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_vizvantarAvadAna",
+    "index": 238,
+    "catalog_title": "Visvantaravadana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vizvantarAvadAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vizvantarAvadAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "RLBuddh",
+    "category": "Buddhist Religious Literature"
+  },
+  {
+    "id": "sa_abhidharmasamuccayabhASya",
+    "index": 1,
+    "catalog_title": "Abhidharmasamuccayabhasya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_abhidharmasamuccayabhASya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhidharmasamuccayabhASya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_abhisamayAlaMkAra",
+    "index": 2,
+    "catalog_title": "Abhisamayalamkara [Abhisamayalankara] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_abhisamayAlaMkAra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhisamayAlaMkAra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_abhisamayAlaMkAravivaraNa",
+    "index": 3,
+    "catalog_title": "Abhisamayalankarantah patinam (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_abhisamayAlaMkAravivaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhisamayAlaMkAravivaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_abhisamayAlaMkAravRttiH-sphuTArthA",
+    "index": 4,
+    "catalog_title": "Abhisamayalankaravrttih sphutartha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_abhisamayAlaMkAravRttiH-sphuTArthA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhisamayAlaMkAravRttiH-sphuTArthA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_AlambanaparIkSA",
+    "index": 5,
+    "catalog_title": "Alambanapariksa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_AlambanaparIkSA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AlambanaparIkSA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_AlambanaparIkSA-comm",
+    "index": 6,
+    "catalog_title": "Alambanapariksa with Alambanapariksavrtti (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_AlambanaparIkSA-comm.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AlambanaparIkSA-comm.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_antarvyAptisamarthana",
+    "index": 7,
+    "catalog_title": "Antarvyaptisamarthana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_antarvyAptisamarthana.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_antarvyAptisamarthana.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_arcaTa-hetubinduTIkA-edsanghavi",
+    "index": 8,
+    "catalog_title": "Arcata: Hetubindutika [comm. on Dharmakirti's Hetubindu] (provided by Helmut Krasser)",
+    "relative_url": "gretil/corpustei/sa_arcaTa-hetubinduTIkA-edsanghavi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_arcaTa-hetubinduTIkA-edsanghavi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_arcaTa-hetubinduTIkA",
+    "index": 9,
+    "catalog_title": "Arcata: Hetubindutika [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_arcaTa-hetubinduTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_arcaTa-hetubinduTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_Aryadeva-caryAmelAvaNapradIpa",
+    "index": 10,
+    "catalog_title": "Aryadeva: Caryamelavanapradipa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_Aryadeva-caryAmelAvaNapradIpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_Aryadeva-caryAmelAvaNapradIpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_Aryadeva-catuHzatikA",
+    "index": 11,
+    "catalog_title": "Aryadeva: Catuhsatika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_Aryadeva-catuHzatikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_Aryadeva-catuHzatikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_Aryadeva-cittavizuddhiprakaraNa",
+    "index": 12,
+    "catalog_title": "Aryadeva: Cittavisuddhiprakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_Aryadeva-cittavizuddhiprakaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_Aryadeva-cittavizuddhiprakaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_AryazUra-pAramitAsamAsa",
+    "index": 13,
+    "catalog_title": "Aryasura: Paramitasamasa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_AryazUra-pAramitAsamAsa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AryazUra-pAramitAsamAsa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_asaGga-abhidharmasamuccaya",
+    "index": 14,
+    "catalog_title": "Asanga: Abhidharmasamuccaya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_asaGga-abhidharmasamuccaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-abhidharmasamuccaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_azvaghoSa-gurupaJcAzikA",
+    "index": 15,
+    "catalog_title": "Asvaghosa: Gurupancasika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_azvaghoSa-gurupaJcAzikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_azvaghoSa-gurupaJcAzikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_azvaghoSa-vajrasUcI",
+    "index": 16,
+    "catalog_title": "Asvaghosa: Vajrasuci (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_azvaghoSa-vajrasUcI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_azvaghoSa-vajrasUcI.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_bhikSukarmavAkya",
+    "index": 17,
+    "catalog_title": "Bhiksukarmavakya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bhikSukarmavAkya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhikSukarmavAkya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_atiza-bodhipathapradIpa",
+    "index": 18,
+    "catalog_title": "Bodhipathapradipa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_atiza-bodhipathapradIpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_atiza-bodhipathapradIpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_bodhisattvabhUmi",
+    "index": 19,
+    "catalog_title": "Bodhisattvabhumi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_bodhisattvabhUmi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bodhisattvabhUmi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_candrakIrti-prasannapada",
+    "index": 20,
+    "catalog_title": "Candrakirti: Prasannapada [or Madhyamakasastravrtti] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_candrakIrti-prasannapada.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candrakIrti-prasannapada.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_candrakIrti-bodhisattvayogAcAracatuHzatakaTIkA",
+    "index": 21,
+    "catalog_title": "Candrakirti: Bodhisattvayogacaracatuhsatakatika (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_candrakIrti-bodhisattvayogAcAracatuHzatakaTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candrakIrti-bodhisattvayogAcAracatuHzatakaTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-hetubindu-edsteinkellner",
+    "index": 22,
+    "catalog_title": "Dharmakirti: Hetubindu",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-hetubindu-edsteinkellner.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-hetubindu-edsteinkellner.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-nyAyabindu",
+    "index": 23,
+    "catalog_title": "Dharmakirti: Nyayabindu",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-nyAyabindu.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-nyAyabindu.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-nyAyabinduprakaraNa-comm",
+    "index": 24,
+    "catalog_title": "Dharmakirti: Nyayabinduprakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-nyAyabinduprakaraNa-comm.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-nyAyabinduprakaraNa-comm.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-pramANavArttikakArikA",
+    "index": 25,
+    "catalog_title": "Dharmakirti: Pramanavarttikakarika (input by Motoi Ono)",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-pramANavArttikakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-pramANavArttikakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-pramANavArttisvavRtti",
+    "index": 26,
+    "catalog_title": "Dharmakirti: Pramanavarttikasvavrtti (input by Motoi Ono)",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-pramANavArttisvavRtti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-pramANavArttisvavRtti.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-pramANavinizcaya-fragment",
+    "index": 27,
+    "catalog_title": "Dharmakirti: Pramanaviniscaya (fragment) (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-pramANavinizcaya-fragment.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-pramANavinizcaya-fragment.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-subandhaparIkSA-1-25",
+    "index": 28,
+    "catalog_title": "Dharmakirti: Sambandhapariksa, with Prabhacandra's commentary",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-subandhaparIkSA-1-25.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-subandhaparIkSA-1-25.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-saMtAnAntarasiddhi",
+    "index": 29,
+    "catalog_title": "Dharmakirti: Samtanantarasiddhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-saMtAnAntarasiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-saMtAnAntarasiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmakIrti-vAdanyAya",
+    "index": 30,
+    "catalog_title": "Dharmakirti: Vadanyaya",
+    "relative_url": "gretil/corpustei/sa_dharmakIrti-vAdanyAya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-vAdanyAya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dharmasamuccaya",
+    "index": 31,
+    "catalog_title": "Dharmasamuccaya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dharmasamuccaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmasamuccaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dignAga-prajJApAramitApiNDArtha",
+    "index": 32,
+    "catalog_title": "Dignaga [ = Dinnaga]: Prajnaparamitapindartha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dignAga-prajJApAramitApiNDArtha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dignAga-prajJApAramitApiNDArtha.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dignAga-yogAvatAra",
+    "index": 33,
+    "catalog_title": "Dignaga [ = Dinnaga]: Yogavatara (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dignAga-yogAvatAra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dignAga-yogAvatAra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-ApattidezanAvidhi",
+    "index": 34,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Apattidesanavidhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-ApattidezanAvidhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-ApattidezanAvidhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-bodhisattvAdikarmikamArgAvatAradezanA",
+    "index": 35,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Bodhisattvadikarmikamargavataradesana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-bodhisattvAdikarmikamArgAvatAradezanA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-bodhisattvAdikarmikamArgAvatAradezanA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkara-caryAsaMgrahapradIpa",
+    "index": 36,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Caryasamgrahapradipa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkara-caryAsaMgrahapradIpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkara-caryAsaMgrahapradIpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-cittotpAdasaMvaravidhikrama",
+    "index": 37,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Cittotpadasamvaravidhikrama (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-cittotpAdasaMvaravidhikrama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-cittotpAdasaMvaravidhikrama.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-dazAkuzalakarmapathadezanA",
+    "index": 38,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Dasakusalakarmapathadesana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-dazAkuzalakarmapathadezanA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-dazAkuzalakarmapathadezanA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-gurukriyAkrama",
+    "index": 39,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Gurukriyakrama (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-gurukriyAkrama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-gurukriyAkrama.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-mahAyAnapathasAdhanasaMgraha",
+    "index": 40,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa] Mahayanapathasadhanasamgraha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-mahAyAnapathasAdhanasaMgraha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-mahAyAnapathasAdhanasaMgraha.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-samAdhisaMbhAraparivarta",
+    "index": 41,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Samadhisambharaparivarta (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-samAdhisaMbhAraparivarta.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-samAdhisaMbhAraparivarta.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-zaraNagamanadezanA",
+    "index": 42,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Saranagamanadesana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-zaraNagamanadezanA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-zaraNagamanadezanA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkara-satyadvayAvatAranAma",
+    "index": 43,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Satyadvayavataranama (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkara-satyadvayAvatAranAma.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkara-satyadvayAvatAranAma.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_dIpaMkarazrIjJAna-sUtrArthasamuccayopadeza",
+    "index": 44,
+    "catalog_title": "Dipankarasrijnana [ = Dipamkarasrijnana = Atisa]: Sutrarthasamuccayopadesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_dIpaMkarazrIjJAna-sUtrArthasamuccayopadeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-sUtrArthasamuccayopadeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_durvekamizra-dharmottarapradIpa",
+    "index": 45,
+    "catalog_title": "Durveka Misra: Dharmottarapradipa (provided by Helmut Krasser)",
+    "relative_url": "gretil/corpustei/sa_durvekamizra-dharmottarapradIpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_durvekamizra-dharmottarapradIpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_durvekamizra-hetubinduTIkAloka",
+    "index": 46,
+    "catalog_title": "Durveka Misra: Hetubindutikaloka [subcomm. on Arcata's Hetubindutika] (provided by Helmut Krasser)",
+    "relative_url": "gretil/corpustei/sa_durvekamizra-hetubinduTIkAloka.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_durvekamizra-hetubinduTIkAloka.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_garbhasaMgrahaH",
+    "index": 47,
+    "catalog_title": "Garbhasamgraha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_garbhasaMgrahaH.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_garbhasaMgrahaH.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_haribhadrasUri-nyAyapravezapravRtti",
+    "index": 48,
+    "catalog_title": "Haribhadrasuri: Nyayapravesapravrtti (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_haribhadrasUri-nyAyapravezapravRtti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_haribhadrasUri-nyAyapravezapravRtti.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_harivarman-satyasiddhizAstram",
+    "index": 49,
+    "catalog_title": "Harivarman: Satyasiddhisastra (input by Udip Shakya)",
+    "relative_url": "gretil/corpustei/sa_harivarman-satyasiddhizAstram.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_harivarman-satyasiddhizAstram.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_hastavAlaprakaraNavRtti",
+    "index": 50,
+    "catalog_title": "Hastavalaprakaranavrtti (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_hastavAlaprakaraNavRtti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_hastavAlaprakaraNavRtti.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_jitAri-hetutattvopadeza-alt",
+    "index": 51,
+    "catalog_title": "Jitari: Hetutattvopadesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_jitAri-hetutattvopadeza-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jitAri-hetutattvopadeza-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_jitAri-hetutattvopadeza",
+    "index": 52,
+    "catalog_title": "Jitari: Hetutattvopadesa [alternative version] (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_jitAri-hetutattvopadeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jitAri-hetutattvopadeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_kamalazIla-bhAvanAkrama",
+    "index": 53,
+    "catalog_title": "Kamalasila: Bhavanakrama (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kamalazIla-bhAvanAkrama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kamalazIla-bhAvanAkrama.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_kamalazIla-madhyamakAloka",
+    "index": 54,
+    "catalog_title": "Kamalasila: Madhyamakaloka (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kamalazIla-madhyamakAloka.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kamalazIla-madhyamakAloka.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_madhyamakAvatAra-1-5",
+    "index": 55,
+    "catalog_title": "Madhyamakavatara (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_madhyamakAvatAra-1-5.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_madhyamakAvatAra-1-5.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_asaGga-mahAyAnasUtrAlaMkAra-alt",
+    "index": 56,
+    "catalog_title": "Mahayanasutralamkara (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-mahAyAnasUtrAlaMkAra-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_maitreyanAtha-bhavasaMkrAntiTIkA",
+    "index": 57,
+    "catalog_title": "Maitreyanatha: Bhavasamkrantitika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_maitreyanAtha-bhavasaMkrAntiTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyanAtha-bhavasaMkrAntiTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_maitreya-madhyAntavibhAgakArikA",
+    "index": 58,
+    "catalog_title": "Maitreyanatha [attrib.]: Madhyantavibhagakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_maitreya-madhyAntavibhAgakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreya-madhyAntavibhAgakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-acintyastava",
+    "index": 59,
+    "catalog_title": "Nagarjuna: Acintyastava (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-acintyastava.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-acintyastava.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-bhavasaGkrAntiparikathA",
+    "index": 60,
+    "catalog_title": "Nagarjuna: Bhavasamkrantiparikatha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-bhavasaGkrAntiparikathA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-bhavasaGkrAntiparikathA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-bodhicittavivaraNa-fragments",
+    "index": 61,
+    "catalog_title": "Nagarjuna: Bodhicittavivarana (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-bodhicittavivaraNa-fragments.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-bodhicittavivaraNa-fragments.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-dharmadhAtugarbhavivaraNa",
+    "index": 62,
+    "catalog_title": "Nagarjuna: Dharmadhatugarbhavivarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-dharmadhAtugarbhavivaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-dharmadhAtugarbhavivaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-dharmasaMgraha",
+    "index": 63,
+    "catalog_title": "Nagarjuna: Dharmasamgraha [Dharmasangraha] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-dharmasaMgraha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-dharmasaMgraha.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-kriyAsaMgrahakArikA",
+    "index": 64,
+    "catalog_title": "Nagarjuna: Kriyasamgrahakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-kriyAsaMgrahakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-kriyAsaMgrahakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-lokAtItastava",
+    "index": 65,
+    "catalog_title": "Nagarjuna: Lokatitastava (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-lokAtItastava.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-lokAtItastava.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-madhyamakazAstra",
+    "index": 66,
+    "catalog_title": "Nagarjuna: Madhyamakasastra [Karika only!] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-madhyamakazAstra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-madhyamakazAstra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-mahAyAnaviMzikA",
+    "index": 67,
+    "catalog_title": "Nagarjuna: Mahayanavimsika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-mahAyAnaviMzikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-mahAyAnaviMzikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-mUlamadhyamakakArikA",
+    "index": 68,
+    "catalog_title": "Nagarjuna: Mulamadhyamakakarika (input by Douglas Bachman, revised by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-mUlamadhyamakakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-mUlamadhyamakakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-paJcakrama",
+    "index": 69,
+    "catalog_title": "Nagarjuna: Pancakrama (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-paJcakrama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-paJcakrama.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-piNDIkrama",
+    "index": 70,
+    "catalog_title": "Nagarjuna: Pindikrama [transmitted as krama 1 of Pancakrama] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-piNDIkrama.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-piNDIkrama.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-pratItyasamutpAdahRdayakArikA",
+    "index": 71,
+    "catalog_title": "Nagarjuna: Pratityasamutpadahrdayakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-pratItyasamutpAdahRdayakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-pratItyasamutpAdahRdayakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-pratItyasamutpAdahRdayavyAkhyAna",
+    "index": 72,
+    "catalog_title": "Nagarjuna: Pratityasamutpadahrdayavyakhyana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-pratItyasamutpAdahRdayavyAkhyAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-pratItyasamutpAdahRdayavyAkhyAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-ratnAvalI",
+    "index": 73,
+    "catalog_title": "Nagarjuna: Ratnavali [1-2.46, and 4; Sanskrit text of 2.47-95 and 3 lost] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-ratnAvalI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-ratnAvalI.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-ratnAvali1",
+    "index": 74,
+    "catalog_title": "Nagarjuna: Ratnavali 1, 2 & 4 (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-ratnAvali1.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-ratnAvali1.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-zAlistambakakArikA",
+    "index": 75,
+    "catalog_title": "Nagarjuna: Salistambakakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-zAlistambakakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-zAlistambakakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-zAlistambakamahAyAnasUtraTIkA",
+    "index": 76,
+    "catalog_title": "Nagarjuna: Salistambakamahayanasutratika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-zAlistambakamahAyAnasUtraTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-zAlistambakamahAyAnasUtraTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-suhRllekha",
+    "index": 77,
+    "catalog_title": "Nagarjuna: Suhrllekha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-suhRllekha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-suhRllekha.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-zUnyatAsaptati",
+    "index": 78,
+    "catalog_title": "Nagarjuna: Sunyatasaptati (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-zUnyatAsaptati.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-zUnyatAsaptati.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-vigrahavyAvartanI",
+    "index": 79,
+    "catalog_title": "Nagarjuna: Vigrahavyavartani (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanI.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-vigrahavyAvartanIkArikA",
+    "index": 80,
+    "catalog_title": "Nagarjuna: Vigrahavyavartani [karikas only] (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanIkArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanIkArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-vigrahavyAvartanI-alt",
+    "index": 81,
+    "catalog_title": "Nagarjuna: Vigrahavyavartini [karikas only, alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanI-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-vigrahavyAvartanI-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-yuktiSaSTikakArikA-fragments",
+    "index": 82,
+    "catalog_title": "Nagarjuna: Yuktisastikarika (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA-fragments.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA-fragments.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAgArjuna-yuktiSaSTikakArikA",
+    "index": 83,
+    "catalog_title": "Nagarjuna: Yuktisastikarika [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_nAropa-sekoddeza",
+    "index": 84,
+    "catalog_title": "Naropa: Sekoddesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_nAropa-sekoddeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAropa-sekoddeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_paNDitAzoka-avayavinirAkaraNa",
+    "index": 85,
+    "catalog_title": "Panditasoka: Avayavinirakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_paNDitAzoka-avayavinirAkaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_paNDitAzoka-avayavinirAkaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_paNDitAzoka-sAmAnyadUSaNadikprasAritA",
+    "index": 86,
+    "catalog_title": "Panditasoka: Samanyadusanadikprasarita (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_paNDitAzoka-sAmAnyadUSaNadikprasAritA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_paNDitAzoka-sAmAnyadUSaNadikprasAritA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_prajJAkaramati-bodhicaryAvatArapaJjikA",
+    "index": 87,
+    "catalog_title": "Prajnakaramati: Bodhicaryavatarapanjika [comm. on Santideva's Bodhicaryavatara] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_prajJAkaramati-bodhicaryAvatArapaJjikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJAkaramati-bodhicaryAvatArapaJjikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_pramANavArttika",
+    "index": 88,
+    "catalog_title": "Pramanavartika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_pramANavArttika.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pramANavArttika.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_ratnagotravibhAga",
+    "index": 89,
+    "catalog_title": "Ratnagotravibhaga (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnagotravibhAga.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnagotravibhAga.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_apohasiddhi",
+    "index": 90,
+    "catalog_title": "Ratnakirti: Apohasiddhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_apohasiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_apohasiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_kSaNabhaGgasiddhi",
+    "index": 91,
+    "catalog_title": "Ratnakirti: Ksanabhangasiddhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_kSaNabhaGgasiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSaNabhaGgasiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA",
+    "index": 92,
+    "catalog_title": "Ratnakirti: Ksanabhangasiddhir Vyatirekatmika (input by Somadeva Vasudeva)",
+    "relative_url": "gretil/corpustei/sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA-alt",
+    "index": 93,
+    "catalog_title": "Ratnakirti: Ksanabhangasiddhir Vyatirekatmika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnakIrti-kSaNabhaGgasiddhi-vyatirekAtmikA-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_ratnakIrti-nibandhAvalI",
+    "index": 94,
+    "catalog_title": "Ratnakirti: Nibandhavali (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnakIrti-nibandhAvalI.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnakIrti-nibandhAvalI.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_ratnakIrti-vAdarahasya",
+    "index": 95,
+    "catalog_title": "Ratnakirti (?): Vadarahasya, also known as Udayananirakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_ratnakIrti-vAdarahasya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ratnakIrti-vAdarahasya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zAkyabuddhi-pramANavArttikaTIkA",
+    "index": 96,
+    "catalog_title": "Sakyabuddhi: Pramanavarttikatika (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_zAkyabuddhi-pramANavArttikaTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAkyabuddhi-pramANavArttikaTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zAntarakSita-tattvasaMgraha",
+    "index": 97,
+    "catalog_title": "Santaraksita: Tattvasamgraha [grammatical analysis] (input by Timothy Cahill and Elliot Stern)",
+    "relative_url": "gretil/corpustei/sa_zAntarakSita-tattvasaMgraha.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAntarakSita-tattvasaMgraha.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zAntideva-bodhicaryAvatAra",
+    "index": 98,
+    "catalog_title": "Santideva: Bodhicaryavatara (input by Richard Mahoney)",
+    "relative_url": "gretil/corpustei/sa_zAntideva-bodhicaryAvatAra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAntideva-bodhicaryAvatAra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zAntideva-bodhicaryAvatAra-alt",
+    "index": 99,
+    "catalog_title": "Santideva: Bodhicaryavatara [alternative version] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zAntideva-bodhicaryAvatAra-alt.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAntideva-bodhicaryAvatAra-alt.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zAntideva-zikSAsamuccaya",
+    "index": 100,
+    "catalog_title": "Santideva: Siksasamuccaya (input by Mirek Rozehnahl and Jens Braarvig)",
+    "relative_url": "gretil/corpustei/sa_zAntideva-zikSAsamuccaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zAntideva-zikSAsamuccaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zikSAsamuccayakArikA",
+    "index": 101,
+    "catalog_title": "Siksasamuccayakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zikSAsamuccayakArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zikSAsamuccayakArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_zUnyasamAdhipAda-tattvajJAnasaMsiddhi",
+    "index": 103,
+    "catalog_title": "Sunyasamadhipada: Tattvajnanasamsiddhi (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_zUnyasamAdhipAda-tattvajJAnasaMsiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zUnyasamAdhipAda-tattvajJAnasaMsiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_tarkabhASA",
+    "index": 104,
+    "catalog_title": "Tarkabhasa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_tarkabhASA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tarkabhASA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_tarkarahasya",
+    "index": 105,
+    "catalog_title": "Tarkarahasya (provided by Helmut Krasser)",
+    "relative_url": "gretil/corpustei/sa_tarkarahasya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tarkarahasya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_pratyakSalakSaNa-of-the-tarkarahasya",
+    "index": 106,
+    "catalog_title": "Tarkarahasya, Pratyaksalaksana (provided by Helmut Krasser)",
+    "relative_url": "gretil/corpustei/sa_pratyakSalakSaNa-of-the-tarkarahasya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratyakSalakSaNa-of-the-tarkarahasya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_tarkazAstra",
+    "index": 107,
+    "catalog_title": "Tarkasastra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_tarkazAstra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tarkazAstra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_tattvaratnAvaloka",
+    "index": 108,
+    "catalog_title": "Tattvaratnavaloka (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_tattvaratnAvaloka.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tattvaratnAvaloka.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_upAyahRdaya",
+    "index": 109,
+    "catalog_title": "Upayahrdaya (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_upAyahRdaya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_upAyahRdaya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vararuci-zatagAthA",
+    "index": 110,
+    "catalog_title": "Vararuci: Satagatha (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vararuci-zatagAthA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vararuci-zatagAthA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-abhidharmakozabhASya",
+    "index": 111,
+    "catalog_title": "Vasubandhu: Abhidharmakosabhasya (input by N.N., edited & revised by Paul Hackett and Dan Lusthaus)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-abhidharmakozabhASya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-abhidharmakozabhASya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-abhidharmakoza",
+    "index": 112,
+    "catalog_title": "Vasubandhu: Abhidharmakosa [Karikas only] (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-abhidharmakoza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-abhidharmakoza.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-bodhicittotpAdasUtrazAstra",
+    "index": 113,
+    "catalog_title": "Vasubandhu: Bodhicittotpadasutrasastra (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-bodhicittotpAdasUtrazAstra.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-bodhicittotpAdasUtrazAstra.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-madhyAntavibhAgakArikAbhASya",
+    "index": 114,
+    "catalog_title": "Vasubandhu: Madhyantavibhagakarikabhasya, a commentary on Maitreyanatha's Madhyantavibhagakarika (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-madhyAntavibhAgakArikAbhASya.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-madhyAntavibhAgakArikAbhASya.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-paJcaskandhaprakaraNa",
+    "index": 115,
+    "catalog_title": "Vasubandhu: Pancaskandhaprakarana (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-paJcaskandhaprakaraNa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-paJcaskandhaprakaraNa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-triMzikAvijJaptikArikA",
+    "index": 116,
+    "catalog_title": "Vasubandhu: Trimsikavijnaptikarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-triMzikAvijJaptikArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-triMzikAvijJaptikArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-triMzikAvijJaptikArikA-comm",
+    "index": 117,
+    "catalog_title": "Vasubandhu: Trimsikavijnaptikarika, with Sthiramati's Trimsikavijnaptibhasya (input by Takamichi Fukita and Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-triMzikAvijJaptikArikA-comm.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-triMzikAvijJaptikArikA-comm.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-trisvabhAvanirdeza",
+    "index": 118,
+    "catalog_title": "Vasubandhu: Trisvabhavanirdesa (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-trisvabhAvanirdeza.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-trisvabhAvanirdeza.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vasubandhu-viMzatikA-vijJaptimAtratAsiddhi",
+    "index": 119,
+    "catalog_title": "Vasubandhu: Vimsatika vijnaptimatratasiddhi (input by Takamichi Fukita)",
+    "relative_url": "gretil/corpustei/sa_vasubandhu-viMzatikA-vijJaptimAtratAsiddhi.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-viMzatikA-vijJaptimAtratAsiddhi.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vidyAkarazAnti-tarkasopAna",
+    "index": 120,
+    "catalog_title": "Vidyakarasanti: Tarkasopana (input by Klaus Wille)",
+    "relative_url": "gretil/corpustei/sa_vidyAkarazAnti-tarkasopAna.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vidyAkarazAnti-tarkasopAna.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vimalamitra-abhidharmadIpa-comm",
+    "index": 121,
+    "catalog_title": "Vimalamitra(?): Abhidharmadipa, with auto(?)-commentary Vibhasaprabhasavrtti (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vimalamitra-abhidharmadIpa-comm.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vimalamitra-abhidharmadIpa-comm.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vimalamitra-abhidharmadIpa",
+    "index": 122,
+    "catalog_title": "Vimalamitra(?): Abhidharmadipa, Karikas extracted from the commented text (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vimalamitra-abhidharmadIpa.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vimalamitra-abhidharmadIpa.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vimalamitra-abhidharmadIpa-1-383",
+    "index": 123,
+    "catalog_title": "Vimalamitra(?): Abhidharmadipa, Karikas 1-383 (alternative version) (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vimalamitra-abhidharmadIpa-1-383.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vimalamitra-abhidharmadIpa-1-383.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_viMzatikAkArikA",
+    "index": 124,
+    "catalog_title": "Vimsatikakarika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_viMzatikAkArikA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_viMzatikAkArikA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_viMzikAvRtti",
+    "index": 125,
+    "catalog_title": "Vimsikavrtti (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_viMzikAvRtti.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_viMzikAvRtti.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_vinItadeva-saMtAnAntarasiddhiTIkA",
+    "index": 126,
+    "catalog_title": "Vinitadeva: Samtanantarasiddhitika (input by members of the Sanskrit Buddhist Canon Input Project)",
+    "relative_url": "gretil/corpustei/sa_vinItadeva-saMtAnAntarasiddhiTIkA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vinItadeva-saMtAnAntarasiddhiTIkA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  },
+  {
+    "id": "sa_yazomitra-sphuTArthA-abhidharmakozavyAkhyA",
+    "index": 127,
+    "catalog_title": "Yasomitra: Sphutartha Abhidharmakosavyakhya (input by Seishi Karashima)",
+    "relative_url": "gretil/corpustei/sa_yazomitra-sphuTArthA-abhidharmakozavyAkhyA.xml",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yazomitra-sphuTArthA-abhidharmakozavyAkhyA.xml",
+    "file_type": "tei_xml",
+    "section_id": "Bauddha",
+    "category": "Buddhist Philosophy"
+  }
+]

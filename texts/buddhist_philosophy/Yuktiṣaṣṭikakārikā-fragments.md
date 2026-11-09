@@ -1,0 +1,74 @@
+---
+title: Yuktiṣaṣṭikakārikā-fragments
+category: Buddhist Philosophy
+gretil_id: sa_nAgArjuna-yuktiSaSTikakArikA-fragments
+source_url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA-fragments.xml
+author: Nāgārjuna
+contributors:
+- 'data entry: Richard Mahoney'
+- 'contribution to GRETIL: Richard Mahoney'
+- 'initial normalization and conversion to legacy GRETIL formats: Reinhold Grünendahl'
+- 'normalization and conversion to TEI-conformant markup: Maximilian Mehner'
+licence: Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike
+  4.0 International License.
+keywords:
+- Sanskrit -- Śāstra -- Philosophy -- Buddhist
+---
+
+# Yuktiṣaṣṭikakārikā-fragments
+
+astināstivyatikrāntā buddhir yeṣāṃ nirāśrayā |  
+gambhīras tair nirālambaḥ pratyayārtho vibhāvyate || NagYsk_01
+
+...
+
+saṃsāraṃ caiva nirvāṇaṃ manyante 'tattvadarśinaḥ |  
+na saṃsāraṃ na nirvāṇaṃ manyante tattvadarśinaḥ || NagYsk_05
+
+nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate |  
+parajñānaṃ bhavasyaiva nirvāṇam iti kathyate || NagYsk_06
+
+...
+
+tat tat prāpya yad utpannaṃ notpannaṃ tat svabhāvataḥ |  
+svabhāvena yan notpannam utpannaṃ nāma tat katham || NagYsk_19
+
+...
+
+sarvam astīti vaktavyam ādau tattvagaveṣiṇaḥ |  
+paścād avagatārthasya niḥsaṅgasya viviktatā || NagYsk_30
+
+...
+
+mamety aham iti proktaṃ yathā kāryavaśāj jinaiḥ |  
+tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || NagYsk_33
+
+mahābhūtādi vijñāne proktaṃ samavarudhyate |  
+tajjñāne vagamaṃ yāti nanu mithyā vikalpitam || NagYsk_34
+
+...
+
+hetutaḥ saṃbhavo yasya sthitir na pratyayair vinā |  
+vigamaḥ pratyayābhāvāt so 'stīty avagataḥ katham || NagYsk_39
+
+...
+
+rāgadveṣodbhavas tīvraduṣṭadṛṣṭiparigrahaḥ |  
+vivādās tatsamutthāś ca bhāvābhyupagame sati || NagYsk_46
+
+sa hetuḥ sarvadṛṣṭīnāṃ kleśotpattir na taṃ vinā |  
+tasmāt tasmin parijñāte dṛṣṭikleśaparikṣayaḥ || NagYsk_47
+
+parijñā tasya keneti pratītyotpādadarśanāt |  
+pratītya jātaṃ cājātam āha tattvavidāṃ varaḥ || NagYsk_48
+
+...
+
+bālāḥ sajjanti rūpeṣu vairāgyaṃ yānti madhyamāḥ |  
+svabhāvajñā vimucyante rūpasyottamabuddhayaḥ || NagYsk_55
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Copyright (C) 2003 by Chr. Lindtner - Denmark
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
