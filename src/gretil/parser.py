@@ -88,9 +88,18 @@ def parse_tei_xml(xml_content: str) -> Dict[str, Any]:
             return inner
         elif tag == "lg":
             lines = []
+            pending = ""
             for c in node.children:
                 if c.name == "l":
-                    lines.append(convert_node(c, depth))
+                    lines.append((pending + convert_node(c, depth)).strip())
+                    pending = ""
+                elif c.name is not None:
+                    # A note or page break between or after the lines of the verse: keep it with the line before.
+                    extra = convert_node(c, depth)
+                    if lines:
+                        lines[-1] = (lines[-1] + extra).strip()
+                    else:
+                        pending += extra
             out_lines = []
             for i, line in enumerate(lines):
                 if i < len(lines) - 1:

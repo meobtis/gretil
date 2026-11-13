@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Optional
 import httpx
 
-from .config import DEFAULT_HEADERS, DEFAULT_MAX_RETRIES, DEFAULT_TIMEOUT
+from .config import DEFAULT_CONCURRENCY, DEFAULT_HEADERS, DEFAULT_MAX_RETRIES, DEFAULT_TIMEOUT, REQUEST_DELAY
 
 logger = logging.getLogger("gretil.client")
 
@@ -14,7 +14,7 @@ class GRETILClient:
 
     def __init__(
         self,
-        concurrency: int = 10,
+        concurrency: int = DEFAULT_CONCURRENCY,
         timeout: float = DEFAULT_TIMEOUT,
         max_retries: int = DEFAULT_MAX_RETRIES,
     ):
@@ -70,6 +70,7 @@ class GRETILClient:
                         if cache_path:
                             cache_path.parent.mkdir(parents=True, exist_ok=True)
                             cache_path.write_text(text, encoding="utf-8")
+                        await asyncio.sleep(REQUEST_DELAY)
                         return text
                     elif resp.status_code == 404:
                         logger.warning(f"404 Not Found: {url}")

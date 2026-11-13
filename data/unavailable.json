@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sa_bANa-kAdambarI-1",
+    "catalog_title": "Bana: Kadambari, Purvabhaga [partly] (input by members of the Sansknet Project)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bANa-kAdambarI-1.xml",
+    "section": "Poetry / Kavya"
+  },
+  {
+    "id": "sa_bAdarAyaNa-brahmasUtra1",
+    "catalog_title": "Badarayana: Brahmasutra, with Madhva's Bhasya and Jagannatha Tirtha's Dipika [subcomm.] (input by members of the Sansknet project)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bAdarAyaNa-brahmasUtra1.xml",
+    "section": "Sastra / Philosophy / Vedanta"
+  },
+  {
+    "id": "sa_bhAgavatapurANa-10",
+    "catalog_title": "Bhagavata-Purana 10.29-33 with Sridhara's comm. (input by Ekkehard Lorenz)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAgavatapurANa-10.xml",
+    "section": "Purana"
+  },
+  {
+    "id": "sa_bhartRhari-vAkyapadIya1-3",
+    "catalog_title": "Bhartrhari: Vakyapadiya 1 - 3,7 (input by Somadeva Vasudeva)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhartRhari-vAkyapadIya1-3.xml",
+    "section": "Sastra / Grammar"
+  },
+  {
+    "id": "sa_gautama-nyAyasUtra5",
+    "catalog_title": "Gautama: Nyayasutra 5.1 with Bhasya (input by Takuya Ono)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gautama-nyAyasUtra5.xml",
+    "section": "Sastra / Philosophy / Nyaya"
+  },
+  {
+    "id": "sa_gopathabrAhmaNa-1",
+    "catalog_title": "Gopatha-Brahmana 1,1.1-1,3.6 [alternative version] (input by Oliver Hellwig)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gopathabrAhmaNa-1.xml",
+    "section": "Veda / Brahmana"
+  },
+  {
+    "id": "sa_khaNDadeva-bhATTadIpikA1-3",
+    "catalog_title": "Khandadeva: Bhattadipika, with Sambhubhatta's Prabhavali (input by members of the Sansknet Project)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_khaNDadeva-bhATTadIpikA1-3.xml",
+    "section": "Sastra / Philosophy / Mimamsa"
+  },
+  {
+    "id": "sa_kumArila-tantravArttika-2",
+    "catalog_title": "Kumarila Bhatta: Tantravarttika (ad Mimamsa-Sutra 2,1.2-4) (input by Kei Kataoka)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kumArila-tantravArttika-2.xml",
+    "section": "Sastra / Philosophy / Mimamsa"
+  },
+  {
+    "id": "sa_nAgArjuna-ratnAvali1",
+    "catalog_title": "Nagarjuna: Ratnavali 1, 2 & 4 (input by Richard Mahoney)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-ratnAvali1.xml",
+    "section": "Sastra / Philosophy / Buddhist"
+  },
+  {
+    "id": "sa_rAmAnuja-zrIbhASya-1",
+    "catalog_title": "Ramanuja: Sribhasya 1,1.3 (input by Sadanori Ishitobi)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rAmAnuja-zrIbhASya-1.xml",
+    "section": "Sastra / Philosophy / Visistadvaita-Vedanta"
+  },
+  {
+    "id": "sa_skandapurANa1-31",
+    "catalog_title": "Skanda-Purana (input by R. Adriaensen, H.T. Bakker and H. Isaacson)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_skandapurANa1-31.xml",
+    "section": "Purana"
+  },
+  {
+    "id": "sa_vAgbhaTa-rasaratnasamuccaya-1-18",
+    "catalog_title": "Vagbhata: Rasaratnasamuccaya, Adhy. 1-18.29ab, with Bodhini and Tika commentaries (input by Oliver Hellwig)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vAgbhaTa-rasaratnasamuccaya-1-18.xml",
+    "section": "Sastra / Ayurveda, alchemy etc."
+  },
+  {
+    "id": "sa_viSNudharmottarapurANa-2",
+    "catalog_title": "Visnudharmottara-Purana, Adhy. 2,127: Atharvavidhikathana [ = Atharvavidhana] (input by Shilpa Sumant)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_viSNudharmottarapurANa-2.xml",
+    "section": "Purana"
+  },
+  {
+    "id": "sa_viSNudharmottarapurANa3",
+    "catalog_title": "Visnudharmottara-Purana, Adhy. 3,343-353 (input by Reinhold Grünendahl)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_viSNudharmottarapurANa3.xml",
+    "section": "Purana"
+  },
+  {
+    "id": "sa_zabara-mImAMsAsUtrabhASya-1",
+    "catalog_title": "Sabarasvami: Mimamsasutrabhasya [Sabarabhasya] ad 1,1.1-5 (input by Somadeva Vasudeva)",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zabara-mImAMsAsUtrabhASya-1.xml",
+    "section": "Sastra / Philosophy / Mimamsa"
+  }
+]

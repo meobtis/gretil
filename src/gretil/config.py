@@ -10,6 +10,7 @@ RAW_DIR = DATA_DIR / "raw"
 RAW_XML_DIR = RAW_DIR / "xml"
 RAW_LEGACY_DIR = RAW_DIR / "legacy"
 MANIFEST_PATH = DATA_DIR / "manifest.json"
+UNAVAILABLE_PATH = DATA_DIR / "unavailable.json"
 TEXTS_DIR = PROJECT_ROOT / "texts"
 
 # Request headers
@@ -24,6 +25,7 @@ DEFAULT_HEADERS = {
 }
 
 # Network defaults
-DEFAULT_CONCURRENCY = 10
+DEFAULT_CONCURRENCY = 4  # GRETIL is a university server: be gentle
+REQUEST_DELAY = 0.2  # seconds to wait after each download
 DEFAULT_TIMEOUT = 30.0
 DEFAULT_MAX_RETRIES = 4

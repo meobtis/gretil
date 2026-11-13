@@ -6,7 +6,8 @@ from typing import Any, Dict, List, Optional
 from rich.progress import Progress
 
 from .client import GRETILClient
-from .config import MANIFEST_PATH, RAW_LEGACY_DIR, RAW_XML_DIR
+from .config import MANIFEST_PATH, RAW_LEGACY_DIR, RAW_XML_DIR, UNAVAILABLE_PATH
+from .selection import select
 
 logger = logging.getLogger("gretil.scraper")
 
@@ -36,7 +37,10 @@ class GRETILScraper:
         url = entry["source_url"]
         cache_path = self.get_cache_path(entry)
         try:
-            await self.client.fetch(url, cache_path=cache_path, force=force)
+            content = await self.client.fetch(url, cache_path=cache_path, force=force)
+            if not content.strip():
+                logger.warning(f"{entry['id']}: GRETIL lists it, but the file is not there ({url})")
+                return False
             return True
         except Exception as e:
             logger.error(f"Failed to download {entry['id']} from {url}: {e}")
@@ -49,12 +53,7 @@ class GRETILScraper:
         force: bool = False,
         progress: Optional[Progress] = None,
     ) -> Dict[str, int]:
-        entries = self.load_manifest()
-
-        if category == "rlbuddh":
-            entries = [e for e in entries if e.get("section_id") == "RLBuddh"]
-        elif category == "bauddha":
-            entries = [e for e in entries if e.get("section_id") == "Bauddha"]
+        entries = select(self.load_manifest(), category)
 
         if limit:
             entries = entries[:limit]
@@ -68,6 +67,7 @@ class GRETILScraper:
 
         success = 0
         failed = 0
+        unavailable: List[Dict[str, Any]] = []
 
         async def worker(item):
             nonlocal success, failed
@@ -76,10 +76,16 @@ class GRETILScraper:
                 success += 1
             else:
                 failed += 1
+                unavailable.append({k: item[k] for k in ("id", "catalog_title", "source_url", "section")})
             if progress and task_id is not None:
                 progress.advance(task_id)
 
         await asyncio.gather(*(worker(e) for e in entries))
+
+        # Texts that GRETIL's index lists but that it does not serve (404 or empty); a complete run records them.
+        if category == "sanskrit" and not limit:
+            unavailable.sort(key=lambda e: e["id"])
+            UNAVAILABLE_PATH.write_text(json.dumps(unavailable, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
         return {
             "total": len(entries),

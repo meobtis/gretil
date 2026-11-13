@@ -19,6 +19,7 @@ from .config import (
 )
 from .converter import GRETILConverter
 from .indexer import GRETILIndexer
+from .selection import CATEGORIES
 from .scraper import GRETILScraper
 
 console = Console()
@@ -37,24 +38,24 @@ def setup_logging(verbose: bool = False):
 @click.group()
 @click.option("-v", "--verbose", is_flag=True, help="Enable verbose debug logging.")
 def main(verbose: bool):
-    """Deterministic GRETIL Buddhist Sanskrit scraper and Markdown converter."""
+    """Deterministic GRETIL Sanskrit scraper and Markdown converter."""
     setup_logging(verbose)
 
 
 @main.command()
 @click.option(
     "--category",
-    type=click.Choice(["rlbuddh", "bauddha", "all"]),
-    default="rlbuddh",
-    help="Category to index (rlbuddh = Buddhist Religious Literature, bauddha = Buddhist Philosophy).",
+    type=click.Choice(CATEGORIES),
+    default="sanskrit",
+    help="Texts to report: sanskrit (all), buddhist (both Buddhist sections), rlbuddh or bauddha. The manifest always lists every Sanskrit text.",
 )
 @click.option("--limit", type=int, default=None, help="Limit number of texts to index.")
 @click.option("-f", "--force", is_flag=True, help="Re-fetch index page even if cached.")
 def index(category: str, limit: Optional[int], force: bool):
-    """Index GRETIL Buddhist Sanskrit texts into data/manifest.json."""
+    """Index all Sanskrit texts of GRETIL into data/manifest.json."""
     console.print(
         Panel.fit(
-            f"[bold cyan]Indexing GRETIL Buddhist Texts[/bold cyan]\n"
+            f"[bold cyan]Indexing GRETIL Sanskrit Texts[/bold cyan]\n"
             f"Category: [yellow]{category}[/yellow]"
             + (f" | Limit: [yellow]{limit}[/yellow]" if limit else ""),
             title="GRETIL Indexer",
@@ -77,8 +78,8 @@ def index(category: str, limit: Optional[int], force: bool):
 @main.command()
 @click.option(
     "--category",
-    type=click.Choice(["rlbuddh", "bauddha", "all"]),
-    default="all",
+    type=click.Choice(CATEGORIES),
+    default="sanskrit",
     help="Category to scrape.",
 )
 @click.option("--limit", type=int, default=None, help="Limit number of texts to download.")
@@ -125,8 +126,8 @@ def scrape(category: str, limit: Optional[int], concurrency: int, force: bool):
 @main.command()
 @click.option(
     "--category",
-    type=click.Choice(["rlbuddh", "bauddha", "all"]),
-    default="all",
+    type=click.Choice(CATEGORIES),
+    default="sanskrit",
     help="Category to convert.",
 )
 @click.option("--limit", type=int, default=None, help="Limit number of texts to convert.")
@@ -163,8 +164,8 @@ def convert(category: str, limit: Optional[int]):
 @main.command(name="all")
 @click.option(
     "--category",
-    type=click.Choice(["rlbuddh", "bauddha", "all"]),
-    default="rlbuddh",
+    type=click.Choice(CATEGORIES),
+    default="sanskrit",
     help="Category to process (default: rlbuddh).",
 )
 @click.option("--limit", type=int, default=None, help="Limit number of texts to process.")
@@ -200,9 +201,8 @@ def info():
 
     if MANIFEST_PATH.exists():
         manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
-        rl_count = sum(1 for e in manifest if e.get("section_id") == "RLBuddh")
-        b_count = sum(1 for e in manifest if e.get("section_id") == "Bauddha")
-        table.add_row("Manifest", f"✓ Exists ({len(manifest)} texts: {rl_count} RLBuddh, {b_count} Bauddha)")
+        buddhist = sum(1 for e in manifest if e.get("buddhist"))
+        table.add_row("Manifest", f"✓ Exists ({len(manifest)} Sanskrit texts: {buddhist} Buddhist)")
     else:
         table.add_row("Manifest", "✗ Not found (run 'gretil index')")
 

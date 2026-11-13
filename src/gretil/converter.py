@@ -1,20 +1,35 @@
-from collections import Counter
+from collections import Counter, defaultdict
 import json
 import logging
+import shutil
+import unicodedata
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 import yaml
 from rich.progress import Progress
 
 from .config import MANIFEST_PATH, RAW_LEGACY_DIR, RAW_XML_DIR, TEXTS_DIR
 from .parser import parse_legacy_html, parse_tei_xml
+from .selection import select
 from .utils import sanitize_filename
 
 logger = logging.getLogger("gretil.converter")
 
+# A folder with more texts than this is split into sub-folders by the first letter of the title.
+BUCKET_LIMIT = 60
+
+
+def bucket_of(title: str) -> str:
+    """Sub-folder for a title: its first letter without diacritics (a, b, …), or 0-9 / _ ."""
+    folded = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode().lstrip(" \"'([“‘")
+    first = folded[:1].lower()
+    if first.isalpha():
+        return first
+    return "0-9" if first.isdigit() else "_"
+
 
 class GRETILConverter:
-    """Converts cached GRETIL TEI XML and legacy HTML into clean Markdown."""
+    """Converts cached GRETIL TEI XML and legacy HTML into clean Markdown, in folders that follow GRETIL's sections."""
 
     def __init__(self, output_dir: Path = TEXTS_DIR):
         self.output_dir = output_dir
@@ -26,41 +41,31 @@ class GRETILConverter:
             )
         return json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
-    def convert_entry(
-        self,
-        entry: Dict[str, Any],
-        title_counts: Optional[Counter] = None,
-    ) -> Optional[Path]:
+    def parse_entry(self, entry: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         file_id = entry["id"]
-        file_type = entry.get("file_type", "tei_xml")
-        category = entry.get("category", "Buddhist Religious Literature")
-        section_id = entry.get("section_id", "RLBuddh")
-
-        cat_folder = "buddhist_religious_literature" if section_id == "RLBuddh" else "buddhist_philosophy"
-        target_dir = self.output_dir / cat_folder
-        target_dir.mkdir(parents=True, exist_ok=True)
-
-        if file_type == "tei_xml":
-            xml_path = RAW_XML_DIR / f"{file_id}.xml"
-            if not xml_path.exists():
-                logger.warning(f"Raw XML missing for {file_id}")
+        if entry.get("file_type", "tei_xml") == "tei_xml":
+            path = RAW_XML_DIR / f"{file_id}.xml"
+            if not path.exists():
                 return None
-            content = xml_path.read_text(encoding="utf-8")
-            parsed = parse_tei_xml(content)
+            parsed = parse_tei_xml(path.read_text(encoding="utf-8"))
         else:
-            legacy_path = RAW_LEGACY_DIR / f"{file_id}.htm"
-            if not legacy_path.exists():
-                logger.warning(f"Raw legacy HTML missing for {file_id}")
+            path = RAW_LEGACY_DIR / f"{file_id}.htm"
+            if not path.exists():
                 return None
-            content = legacy_path.read_text(encoding="utf-8", errors="ignore")
-            parsed = parse_legacy_html(content)
+            parsed = parse_legacy_html(path.read_text(encoding="utf-8", errors="ignore"))
+            # The legacy parser does not know the section; the manifest does.
+            parsed["keywords"] = ["Sanskrit -- " + entry["section"].replace(" / ", " -- ")]
+        parsed["title"] = parsed["title"].lstrip("% ").strip() or entry.get("catalog_title", file_id)  # legacy titles can start "% "
+        return parsed
 
-        title = parsed["title"] or entry.get("catalog_title", file_id)
-
+    def front_matter(self, entry: Dict[str, Any], parsed: Dict[str, Any]) -> str:
         frontmatter: Dict[str, Any] = {
-            "title": title,
-            "category": category,
-            "gretil_id": file_id,
+            "title": parsed["title"],
+            "category": entry.get("category", ""),
+            "section": entry.get("section", ""),
+            "buddhist": bool(entry.get("buddhist")),
+            "language": entry.get("language", "sa"),
+            "gretil_id": entry["id"],
             "source_url": entry["source_url"],
         }
         if parsed.get("author"):
@@ -73,149 +78,116 @@ class GRETILConverter:
             frontmatter["licence"] = parsed["licence"]
         if parsed.get("keywords"):
             frontmatter["keywords"] = parsed["keywords"]
-
-        yaml_header = yaml.dump(
-            frontmatter,
-            allow_unicode=True,
-            default_flow_style=False,
-            sort_keys=False,
-        ).strip()
-
-        body_md = parsed["markdown"]
-        full_content = f"---\n{yaml_header}\n---\n\n# {title}\n\n{body_md}\n"
-
-        clean_t = sanitize_filename(title)
-        if title_counts and title_counts.get(clean_t, 0) > 1:
-            file_slug = sanitize_filename(f"{title}_{file_id}")
-        else:
-            file_slug = clean_t
-
-        out_file = target_dir / f"{file_slug}.md"
-        out_file.write_text(full_content, encoding="utf-8")
-
-        return out_file
+        if entry.get("also_in"):
+            frontmatter["also_in"] = entry["also_in"]
+        return yaml.dump(frontmatter, allow_unicode=True, default_flow_style=False, sort_keys=False).strip()
 
     def convert_all(
         self,
-        category: str = "all",
+        category: str = "sanskrit",
         limit: Optional[int] = None,
         progress: Optional[Progress] = None,
     ) -> Dict[str, Any]:
-        entries = self.load_manifest()
-
-        if category == "rlbuddh":
-            entries = [e for e in entries if e.get("section_id") == "RLBuddh"]
-        elif category == "bauddha":
-            entries = [e for e in entries if e.get("section_id") == "Bauddha"]
-
+        entries = select(self.load_manifest(), category)
         if limit:
             entries = entries[:limit]
 
-        # Pre-compute title counts for disambiguation
-        title_counts: Counter = Counter()
-        for e in entries:
-            fid = e["id"]
-            ftype = e.get("file_type", "tei_xml")
-            if ftype == "tei_xml":
-                p = RAW_XML_DIR / f"{fid}.xml"
-                t = parse_tei_xml(p.read_text(encoding="utf-8"))["title"] if p.exists() else e["catalog_title"]
-            else:
-                p = RAW_LEGACY_DIR / f"{fid}.htm"
-                t = parse_legacy_html(p.read_text(encoding="utf-8", errors="ignore"))["title"] if p.exists() else e["catalog_title"]
-            title_counts[sanitize_filename(t or fid)] += 1
-
         task_id = None
         if progress:
-            task_id = progress.add_task(
-                f"[yellow]Converting {len(entries)} texts to Markdown...",
-                total=len(entries),
-            )
+            task_id = progress.add_task(f"[yellow]Converting {len(entries)} texts to Markdown...", total=len(entries))
 
-        converted_paths = []
+        parsed: List[Tuple[Dict[str, Any], Dict[str, Any]]] = []
         for e in entries:
-            out = self.convert_entry(e, title_counts=title_counts)
-            if out:
-                converted_paths.append(out)
+            p = self.parse_entry(e)
+            if p is None:
+                logger.warning(f"Raw file missing for {e['id']}")
+            else:
+                parsed.append((e, p))
             if progress and task_id is not None:
                 progress.advance(task_id)
 
-        self.generate_catalog()
+        # Folder of each text: the manifest's section folder, split by first letter if it is large.
+        per_folder = Counter(e["folder"] for e, _ in parsed)
+        placed: List[Tuple[Dict[str, Any], Dict[str, Any], Path, str]] = []
+        for e, p in parsed:
+            folder = Path(e["folder"])
+            if per_folder[e["folder"]] > BUCKET_LIMIT:
+                folder = folder / bucket_of(p["title"])
+            placed.append((e, p, folder, sanitize_filename(p["title"])))
 
-        return {
-            "total_entries": len(entries),
-            "converted_entries": len(converted_paths),
-        }
+        # Two texts with one title in one folder (e.g. several recensions): add the GRETIL id to each.
+        clashes = Counter((folder, name) for _, _, folder, name in placed)
+
+        if category == "sanskrit" and not limit and self.output_dir.exists():
+            shutil.rmtree(self.output_dir)  # start clean: files move when GRETIL's sections or titles change
+
+        written = 0
+        for e, p, folder, name in placed:
+            if clashes[(folder, name)] > 1:
+                name = sanitize_filename(f"{p['title']}_{e['id']}")
+            target_dir = self.output_dir / folder
+            target_dir.mkdir(parents=True, exist_ok=True)
+            head = self.front_matter(e, p)
+            (target_dir / f"{name}.md").write_text(
+                f"---\n{head}\n---\n\n# {p['title']}\n\n{p['markdown']}\n", encoding="utf-8"
+            )
+            written += 1
+
+        self.generate_catalog()
+        return {"total_entries": len(entries), "converted_entries": written}
 
     def generate_catalog(self):
-        """Generate texts/CATALOG.md listing all GRETIL Buddhist texts with exact links."""
+        """Generate texts/CATALOG.md: all texts by GRETIL section, with links to the Markdown and to GRETIL."""
         if not MANIFEST_PATH.exists():
             return
-
         manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
-        # Map gretil_id to file path
         id_to_file: Dict[str, str] = {}
-        if self.output_dir.exists():
-            for md_file in self.output_dir.glob("**/*.md"):
-                if md_file.name == "CATALOG.md":
-                    continue
-                try:
-                    content = md_file.read_text(encoding="utf-8", errors="ignore")
-                    if content.startswith("---"):
-                        parts = content.split("---", 2)
-                        if len(parts) >= 3:
-                            fm = yaml.safe_load(parts[1])
-                            if isinstance(fm, dict):
-                                gid = fm.get("gretil_id")
-                                if gid:
-                                    rel = md_file.relative_to(self.output_dir)
-                                    id_to_file[gid] = str(rel)
-                except Exception as e:
-                    logger.warning(f"Error parsing frontmatter in {md_file}: {e}")
-
-        catalog_lines = [
-            "# GRETIL Buddhist Sanskrit Texts - Catalog\n",
-            "This catalog lists Buddhist Sanskrit texts from [GRETIL (Göttingen Register of Electronic Texts in Indian Languages)](https://gretil.sub.uni-goettingen.de/gretil.html).\n",
-            f"**Total Texts Indexed:** {len(manifest)}\n",
-            "## Table of Contents\n",
-            "- [Buddhist Religious Literature (RLBuddh)](#buddhist-religious-literature-rlbuddh)",
-            "- [Buddhist Philosophy (Bauddha)](#buddhist-philosophy-bauddha)",
-            "\n---\n",
-        ]
-
-        for sec_id, sec_title in [
-            ("RLBuddh", "Buddhist Religious Literature (RLBuddh)"),
-            ("Bauddha", "Buddhist Philosophy (Bauddha)"),
-        ]:
-            sec_entries = [e for e in manifest if e.get("section_id") == sec_id]
-            if not sec_entries:
+        for md_file in self.output_dir.glob("**/*.md"):
+            if md_file.name == "CATALOG.md":
                 continue
+            head = md_file.read_text(encoding="utf-8", errors="ignore")[:6000]
+            if head.startswith("---"):
+                try:
+                    fm = yaml.safe_load(head.split("---", 2)[1])
+                except yaml.YAMLError as err:
+                    logger.warning(f"Error parsing frontmatter in {md_file}: {err}")
+                    continue
+                if isinstance(fm, dict) and fm.get("gretil_id"):
+                    id_to_file[fm["gretil_id"]] = md_file.relative_to(self.output_dir).as_posix()
 
-            catalog_lines.append(f"## {sec_title}\n")
-            catalog_lines.append(f"Total: {len(sec_entries)} texts\n")
-            catalog_lines.append("| # | Title | GRETIL ID | Type | Markdown Link | Source |")
-            catalog_lines.append("|---|---|---|---|---|---|")
+        by_section: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+        for e in manifest:
+            by_section[e["section"]].append(e)
+        converted = sum(1 for e in manifest if e["id"] in id_to_file)
+        buddhist = sum(1 for e in manifest if e.get("buddhist"))
 
-            for e in sec_entries:
-                idx = e.get("index", "")
-                cat_title = e.get("catalog_title", "")
-                gid = e.get("id", "")
-                ftype = e.get("file_type", "")
-                surl = e.get("source_url", "")
+        lines = [
+            "# GRETIL Sanskrit texts: catalog\n",
+            "All Sanskrit texts of [GRETIL (Göttingen Register of Electronic Texts in Indian Languages)]"
+            "(https://gretil.sub.uni-goettingen.de/gretil.html), by GRETIL's own sections.\n",
+            f"**Texts listed:** {len(manifest)} ({buddhist} Buddhist: the sections *Religious Literature / Buddhist* and "
+            f"*Philosophy / Buddhist*). **Converted:** {converted}.\n",
+            "## Sections\n",
+        ]
+        for section, items in by_section.items():
+            lines.append(f"- {section} ({len(items)})")
+        lines.append("\n---\n")
 
-                rel_file = id_to_file.get(gid)
-                if rel_file:
-                    link_name = Path(rel_file).stem
-                    link_str = f"[{link_name}]({rel_file})"
-                else:
-                    link_str = "*(not yet scraped)*"
-
-                catalog_lines.append(
-                    f"| {idx} | {cat_title} | `{gid}` | `{ftype}` | {link_str} | [Source]({surl}) |"
+        for section, items in by_section.items():
+            lines.append(f"## {section}\n")
+            lines.append(f"Total: {len(items)} texts. Folder: `{items[0]['folder']}/`\n")
+            lines.append("| # | Title | GRETIL ID | Type | Markdown Link | Source |")
+            lines.append("|---|---|---|---|---|---|")
+            for e in items:
+                rel = id_to_file.get(e["id"])
+                link = f"[{Path(rel).stem}]({rel.replace(' ', '%20')})" if rel else "*(not available)*"
+                lines.append(
+                    f"| {e['index']} | {e['catalog_title']} | `{e['id']}` | `{e['file_type']}` | {link} | "
+                    f"[Source]({e['source_url']}) |"
                 )
-
-            catalog_lines.append("\n---\n")
+            lines.append("\n---\n")
 
         catalog_path = self.output_dir / "CATALOG.md"
         catalog_path.parent.mkdir(parents=True, exist_ok=True)
-        catalog_path.write_text("\n".join(catalog_lines), encoding="utf-8")
+        catalog_path.write_text("\n".join(lines), encoding="utf-8")
